@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import time
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
 st.set_page_config(
@@ -9,7 +10,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# --- ESTILO + BARRA DE PROGRESSO POR SCROLL ---
+# --- ESTILO PREMIUM (CSS) ---
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
@@ -54,39 +55,27 @@ h1, h2, h3 {
     box-shadow: 0 4px 15px rgba(55, 208, 135, 0.4);
 }
 
-/* ===== BARRA DE PROGRESSO POR SCROLL ===== */
-#scroll-progress-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 6px;
-    background: rgba(0, 0, 0, 0.08);
-    z-index: 9999;
+/* Card do Timer */
+.timer-card {
+    background: #111111;
+    border: 1px solid #222222;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 15px;
 }
 
-#scroll-progress-bar {
-    height: 100%;
-    width: 0%;
+.timer-value {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #FF4B4B;
+}
+
+/* Barra de progresso custom */
+div[data-testid="stProgress"] > div > div {
     background: linear-gradient(90deg, #37D087, #39D7FE);
-    transition: width 0.1s ease-out;
 }
 </style>
-
-<div id="scroll-progress-container">
-    <div id="scroll-progress-bar"></div>
-</div>
-
-<script>
-const progressBar = document.getElementById("scroll-progress-bar");
-
-window.addEventListener("scroll", () => {
-    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-    const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-    const scrollPercent = (scrollTop / scrollHeight) * 100;
-    progressBar.style.width = scrollPercent + "%";
-});
-</script>
 """, unsafe_allow_html=True)
 
 # --- SISTEMA DE AUTENTICAÇÃO ---
@@ -145,7 +134,6 @@ else:
         return f"⚠️ Arquivo '{filename}' não encontrado."
 
     content = load_content(dia_num)
-
     c_main, c_tools = st.columns([3, 1])
 
     with c_main:
@@ -156,7 +144,46 @@ else:
             st.balloons()
             st.success("Progresso marcado!")
 
+    # --- TIMER + PROGRESSO ---
     with c_tools:
+        duracao = 3600 if dia_num == 21 else 943
+
+        timer_box = st.empty()
+        progress_bar = st.empty()
+
+        timer_box.markdown(
+            f"""
+            <div class="timer-card">
+                <p style="color:#888">FOCO</p>
+                <div class="timer-value">
+                    {duracao // 60:02d}:{duracao % 60:02d}
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+        if st.button("START TIMER"):
+            progresso = progress_bar.progress(0.0)
+
+            for i in range(duracao):
+                restante = duracao - i
+                m, s = divmod(restante, 60)
+
+                timer_box.markdown(
+                    f"""
+                    <div class="timer-card">
+                        <p style="color:#888">RESTANTE</p>
+                        <div class="timer-value">{m:02d}:{s:02d}</div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+
+                progresso.progress((i + 1) / duracao)
+                time.sleep(1)
+
+        st.markdown("---")
         st.subheader("📝 Notas")
         notas_input = st.text_area(
             "Exercícios do dia:",
