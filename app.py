@@ -103,7 +103,7 @@ else:
             st.success("Progresso marcado!")
 
     with c_tools:
-        st.markdown(f'<div class="timer-card"><p style="color:#888">FOCO</p><div class="timer-value">{"60:00" if dia_num==21 else "15:43"}</div></div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="timer-card"><p style="color:#888">FOCO</p><div class="timer-value">{"60:00" if dia_num==21 else "10:00"}</div></div>', unsafe_allow_html=True)
         if st.button("START TIMER"):
             p = st.empty()
             s = 3600 if dia_num==21 else 943
