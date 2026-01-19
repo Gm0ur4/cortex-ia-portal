@@ -31,7 +31,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- SISTEMA DE AUTENTICAÇÃO ---
-CHAVE_MESTRA = "CORTEX-2026"
+CHAVE_MESTRA = "a"
 
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
