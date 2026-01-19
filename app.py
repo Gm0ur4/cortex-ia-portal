@@ -15,7 +15,9 @@ st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
     html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
-    .main { background-color: #050505; }
+    html, body, .stApp {
+    background-color: #F0FFFE !important;
+}
     .stMarkdown { color: #E0E0E0; line-height: 1.8; }
     h1, h2, h3 { color: #3CD18B !important; font-weight: 800 !important; letter-spacing: -0.02em; }
     .stButton>button {
