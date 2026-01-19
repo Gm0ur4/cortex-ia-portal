@@ -18,8 +18,9 @@ st.markdown("""
     html, body, .stApp {
     background-color: #F0FFFE !important;
 }
+#Cor da fonte menor
     .stMarkdown { color: #952791; line-height: 1.8; }
-    h1, h2, h3 { color: #3CD18B !important; font-weight: 800 !important; letter-spacing: -0.02em; }
+    h1, h2, h3 { color: #952791 !important; font-weight: 800 !important; letter-spacing: -0.02em; }
     .stButton>button {
         background: linear-gradient(90deg, #FF4B4B 0%, #FF1F1F 100%);
         color: white; border: none; padding: 0.75rem 1.5rem;
