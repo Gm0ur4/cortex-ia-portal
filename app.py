@@ -22,7 +22,7 @@ st.markdown("""
     .stMarkdown { color: #952791; line-height: 1.8; }
     h1, h2, h3 { color: #952791 !important; font-weight: 800 !important; letter-spacing: -0.02em; }
     .stButton>button {
-        background: linear-gradient(90deg, #37D087 0%, ##2A9865 100%);
+        background: linear-gradient(90deg, #37D087 0%, #2A9865 100%);
         color: white; border: none; padding: 0.75rem 1.5rem;
         font-weight: 700; border-radius: 8px; transition: all 0.3s ease;
         text-transform: uppercase; letter-spacing: 0.05em; width: 100%;
