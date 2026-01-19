@@ -30,7 +30,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# --- SISTEMA DE AUTENTICAÇÃO SIMPLIFICADO ---
+# --- SISTEMA DE AUTENTICAÇÃO ---
 CHAVE_MESTRA = "CORTEX-2026"
 
 if "authenticated" not in st.session_state:
@@ -42,36 +42,28 @@ def login_screen():
     with col2:
         st.markdown("<h1 style='text-align: center;'>🧠 CORTEX IA</h1>", unsafe_allow_html=True)
         st.markdown("<p style='text-align: center; color: #888;'>Portal de Elite - Acesso Rápido</p>", unsafe_allow_html=True)
-        
-        chave = st.text_input("Chave de Acesso", type="password", placeholder="Digite sua chave para testar")
-        
+        chave = st.text_input("Chave de Acesso", type="password", placeholder="Digite sua chave")
         if st.button("LIBERAR ACESSO"):
             if chave == CHAVE_MESTRA:
                 st.session_state.authenticated = True
-                st.success("Acesso autorizado! Carregando...")
-                time.sleep(0.5)
                 st.rerun()
             else:
-                st.error("Chave incorreta. Tente 'CORTEX-2026'")
+                st.error("Chave incorreta.")
 
 # --- APP PRINCIPAL ---
 if not st.session_state.authenticated:
     login_screen()
 else:
-    # Inicialização de variáveis de sessão
-    if 'dia_atual' not in st.session_state:
-        st.session_state.dia_atual = 1
-    if 'notas' not in st.session_state:
-        st.session_state.notas = {}
+    if 'dia_atual' not in st.session_state: st.session_state.dia_atual = 1
+    if 'notas' not in st.session_state: st.session_state.notas = {}
 
     # Sidebar
     with st.sidebar:
-        st.markdown("### 🧠 Cortex IA", unsafe_allow_html=True)
+        st.markdown("### 🧠 Cortex IA")
         st.markdown("---")
         dias = [f"Dia {i:02d}" for i in range(1, 22)]
         escolha_dia = st.selectbox("Módulo Atual", dias, index=st.session_state.dia_atual - 1)
         dia_num = int(escolha_dia.split()[1])
-        
         if st.button("SAIR"):
             st.session_state.authenticated = False
             st.rerun()
@@ -80,29 +72,21 @@ else:
     st.title(f"🚀 {escolha_dia}")
     
     def load_content(day):
-        base_path = os.path.dirname(__file__)
-        content_dir = os.path.join(base_path, "content")
+        # Tenta encontrar o arquivo na raiz do repositório
+        filename = f"curso_cortex_ia_dia_{day:02d}.md"
         
-        # Mapeamento exato dos arquivos
-        if day == 1: filename = "curso_cortex_ia_dia_01_final_v3.md"
-        elif day == 2: filename = "curso_cortex_ia_dia_02_final_v3.md"
-        elif day == 21:
-            parts = ["curso_cortex_ia_dia_21_intensivao_parte_1.md", 
-                     "curso_cortex_ia_dia_21_intensivao_parte_2.md", 
-                     "curso_cortex_ia_dia_21_intensivao_parte_3.md"]
-            full = ""
-            for p in parts:
-                p_path = os.path.join(content_dir, p)
-                if os.path.exists(p_path):
-                    with open(p_path, "r", encoding="utf-8") as f: full += f.read() + "\n\n---\n\n"
-            return full if full else "Erro: Intensivão não encontrado."
-        else:
-            filename = f"curso_cortex_ia_dia_{day:02d}_final.md"
+        # No Streamlit Cloud, os arquivos ficam na raiz do diretório de execução
+        if os.path.exists(filename):
+            with open(filename, "r", encoding="utf-8") as f:
+                return f.read()
         
-        path = os.path.join(content_dir, filename)
-        if os.path.exists(path):
-            with open(path, "r", encoding="utf-8") as f: return f.read()
-        return f"Erro: Conteúdo do Dia {day} não encontrado no caminho: {path}"
+        # Fallback: tenta caminhos alternativos que o Streamlit pode usar
+        alt_path = os.path.join(os.getcwd(), filename)
+        if os.path.exists(alt_path):
+            with open(alt_path, "r", encoding="utf-8") as f:
+                return f.read()
+                
+        return f"Erro: O arquivo '{filename}' não foi encontrado na raiz do seu GitHub. Verifique se o nome está exatamente assim."
 
     content = load_content(dia_num)
     c_main, c_tools = st.columns([3, 1])
@@ -113,7 +97,7 @@ else:
         if st.button("CONCLUIR DIA"):
             st.session_state.dia_atual = dia_num + 1 if dia_num < 21 else 21
             st.balloons()
-            st.success("Progresso marcado! (Nesta versão de teste, o progresso reseta ao fechar o navegador)")
+            st.success("Progresso marcado!")
 
     with c_tools:
         st.markdown(f'<div class="timer-card"><p style="color:#888">FOCO</p><div class="timer-value">{"60:00" if dia_num==21 else "15:43"}</div></div>', unsafe_allow_html=True)
@@ -130,4 +114,4 @@ else:
         notas_input = st.text_area("Exercícios do dia:", value=st.session_state.notas.get(dia_num, ""), height=300)
         if st.button("SALVAR NOTAS"):
             st.session_state.notas[dia_num] = notas_input
-            st.success("Notas salvas temporariamente!")
+            st.success("Notas salvas!")
