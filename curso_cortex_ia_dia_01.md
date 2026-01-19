@@ -2,7 +2,7 @@
 
 ## DIA 01: O Gatilho da Reciprocidade e o Contraste
 
-**Sacou?** Você quer ganhar mais, quer vender mais, quer que as pessoas façam o que você quer. Mas a maioria das pessoas tenta forçar a barra, e isso é coisa de amador. A persuasão de verdade não é sobre forçar, é sobre **criar uma dívida**. É sobre entender como o cérebro humano funciona e usar isso a seu favor.
+Você quer ganhar mais, quer vender mais, quer que as pessoas façam o que você quer. Mas a maioria das pessoas tenta forçar a barra, e isso é coisa de amador. A persuasão de verdade não é sobre forçar, é sobre **criar uma dívida**. É sobre entender como o cérebro humano funciona e usar isso a seu favor.
 
 Hoje, a gente vai quebrar a cabeça com dois princípios que são a base de qualquer influência: a **Reciprocidade** e o **Contraste**.
 
@@ -44,7 +44,7 @@ O Contraste não é mágica, é física da percepção. **Sacou a jogada?** Voc�
 2.  **Modo Difuso (Reflexão - 5 minutos):** Feche este arquivo. Pegue um papel e caneta. Pense em três situações da sua última semana onde você poderia ter usado a **Reciprocidade** ou o **Contraste** para conseguir o que queria. Não tente escrever o texto perfeito, apenas deixe as ideias fluírem.
 3.  **Brain-link:** Crie uma metáfora visual para a Reciprocidade. Pense em um **bumerangue**. Você joga, e ele volta com mais força. Isso é o seu Brain-link para o conceito.
 
-**Amanhã a gente volta para falar sobre a arte de fazer as perguntas certas. Não adianta ter a arma se você não sabe atirar.**
+**Na próxima voltamos para falar sobre a arte de fazer as perguntas certas. Não adianta ter a arma se você não sabe atirar.**
 
 ---
 **Referências**
