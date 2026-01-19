@@ -18,6 +18,14 @@ st.markdown("""
         background-color: #F0FFFE !important;
     }
     
+    /* Customização da Sidebar */
+    [data-testid="stSidebar"] {
+        background-color: #E0F7FF !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] {
+        color: #952791 !important;
+    }
+    
     /* Barra de progresso de rolagem */
     .progress-bar {
         position: fixed;
