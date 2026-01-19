@@ -17,7 +17,7 @@ st.markdown("""
     html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
     .main { background-color: #F0FFFE; }
     .stMarkdown { color: #E0E0E0; line-height: 1.8; }
-    h1, h2, h3 { color: #FFFFFF !important; font-weight: 800 !important; letter-spacing: -0.02em; }
+    h1, h2, h3 { color: #F0FFFE !important; font-weight: 800 !important; letter-spacing: -0.02em; }
     .stButton>button {
         background: linear-gradient(90deg, #FF4B4B 0%, #FF1F1F 100%);
         color: white; border: none; padding: 0.75rem 1.5rem;
