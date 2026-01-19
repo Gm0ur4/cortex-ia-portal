@@ -1,71 +1,54 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+import streamlit as st
 
+st.set_page_config(
+    page_title="Cortex IA",
+    layout="wide"
+)
+
+# ===== BARRA DE PROGRESSO POR SCROLL =====
+st.markdown("""
 <style>
-/* ===== RESET ===== */
-html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-}
-
-/* ===== BARRA DE PROGRESSO ===== */
+/* Container da barra */
 #scroll-progress-container {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    height: 6px; /* altura da barra */
-    background-color: rgba(255, 255, 255, 0.1);
+    height: 6px;
+    background-color: rgba(255, 255, 255, 0.15);
     z-index: 9999;
 }
 
+/* Barra preenchida */
 #scroll-progress-bar {
     height: 100%;
     width: 0%;
-    background: linear-gradient(90deg, #ff0000, #ff4d4d);
+    background: linear-gradient(90deg, #ff2d2d, #ff6b6b);
     transition: width 0.05s linear;
 }
-
-/* ===== CONTEÚDO DE EXEMPLO ===== */
-.content {
-    padding: 40px;
-    line-height: 1.8;
-}
 </style>
-</head>
 
-<body>
-
-<!-- BARRA DE PROGRESSO -->
 <div id="scroll-progress-container">
     <div id="scroll-progress-bar"></div>
 </div>
 
-<!-- CONTEÚDO -->
-<div class="content">
-    <h1>Página de Exemplo</h1>
-
-    <p>Role a página para ver a barra preenchendo.</p>
-
-    <!-- Simulação de página longa -->
-    <p>Lorem ipsum dolor sit amet.</p>
-    <p style="height: 3000px;"></p>
-</div>
-
 <script>
-/* ===== SCRIPT DA BARRA DE PROGRESSO ===== */
 window.addEventListener("scroll", () => {
-    const scrollTop = window.scrollY;
-    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-    const scrollPercent = (scrollTop / docHeight) * 100;
-
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrollPercent = (scrollTop / scrollHeight) * 100;
     document.getElementById("scroll-progress-bar").style.width = scrollPercent + "%";
 });
 </script>
+""", unsafe_allow_html=True)
 
-</body>
-</html>
+# ===== CONTEÚDO NORMAL DA PÁGINA =====
+st.title("DIA 16: Os Estilos de Liderança e a Ressonância")
+
+st.write("""
+Role a página e observe a barra no topo sendo preenchida conforme a leitura.
+""")
+
+# Simula conteúdo longo (igual seu módulo)
+for i in range(40):
+    st.write(f"Conteúdo do módulo — parágrafo {i+1}")
