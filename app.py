@@ -106,7 +106,7 @@ else:
         st.markdown(f'<div class="timer-card"><p style="color:#888">FOCO</p><div class="timer-value">{"60:00" if dia_num==21 else "10:00"}</div></div>', unsafe_allow_html=True)
         if st.button("START TIMER"):
             p = st.empty()
-            s = 3600 if dia_num==21 else 943
+            s = 3600 if dia_num==21 else 600
             while s > 0:
                 m, sec = divmod(s, 60)
                 p.markdown(f'<div class="timer-card"><p style="color:#888">RESTANTE</p><div class="timer-value">{m:02d}:{sec:02d}</div></div>', unsafe_allow_html=True)
