@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-import time
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
 st.set_page_config(
@@ -10,15 +9,28 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# --- ESTILO PREMIUM (CSS) ---
+# --- ESTILO PREMIUM (CSS) COM BARRA DE PROGRESSO ---
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
     html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
     html, body, .stApp {
-    background-color: #F0FFFE !important;
-}
-#Cor da fonte menor
+        background-color: #F0FFFE !important;
+    }
+    
+    /* Barra de progresso de rolagem */
+    .progress-bar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 4px;
+        background: linear-gradient(90deg, #37D087 0%, #39D7FE 100%);
+        width: 0%;
+        z-index: 9999;
+        transition: width 0.1s ease;
+    }
+    
+    #Cor da fonte menor
     .stMarkdown { color: #952791; line-height: 1.8; }
     h1, h2, h3 { color: #952791 !important; font-weight: 800 !important; letter-spacing: -0.02em; }
     .stButton>button {
@@ -28,9 +40,20 @@ st.markdown("""
         text-transform: uppercase; letter-spacing: 0.05em; width: 100%;
     }
     .stButton>button:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(255, 75, 75, 0.4); }
-    .timer-card { background: #111111; border: 1px solid #222222; padding: 20px; border-radius: 12px; text-align: center; margin-bottom: 20px; }
-    .timer-value { font-size: 2rem; font-weight: 800; color: #FF4B4B; }
     </style>
+    
+    <!-- Barra de progresso HTML -->
+    <div class="progress-bar" id="progressBar"></div>
+    
+    <script>
+    // Script para atualizar a barra de progresso conforme o usuário rola
+    window.addEventListener('scroll', function() {
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const scrolled = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+        document.getElementById('progressBar').style.width = scrolled + '%';
+    });
+    </script>
     """, unsafe_allow_html=True)
 
 # --- SISTEMA DE AUTENTICAÇÃO ---
@@ -103,15 +126,6 @@ else:
             st.success("Progresso marcado!")
 
     with c_tools:
-        st.markdown(f'<div class="timer-card"><p style="color:#888">FOCO</p><div class="timer-value">{"60:00" if dia_num==21 else "10:00"}</div></div>', unsafe_allow_html=True)
-        if st.button("START TIMER"):
-            p = st.empty()
-            s = 3600 if dia_num==21 else 600
-            while s > 0:
-                m, sec = divmod(s, 60)
-                p.markdown(f'<div class="timer-card"><p style="color:#888">RESTANTE</p><div class="timer-value">{m:02d}:{sec:02d}</div></div>', unsafe_allow_html=True)
-                time.sleep(1); s -= 1
-        
         st.markdown("---")
         st.subheader("📝 Notas")
         notas_input = st.text_area("Exercícios do dia:", value=st.session_state.notas.get(dia_num, ""), height=300)
