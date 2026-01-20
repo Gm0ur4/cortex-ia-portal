@@ -15,11 +15,14 @@ st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
     html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
-    .main { background-color: #050505; }
-    .stMarkdown { color: #E0E0E0; line-height: 1.8; }
-    h1, h2, h3 { color: #FFFFFF !important; font-weight: 800 !important; letter-spacing: -0.02em; }
+    html, body, .stApp {
+    background-color: #F0FFFE !important;
+}
+#Cor da fonte menor
+    .stMarkdown { color: #952791; line-height: 1.8; }
+    h1, h2, h3 { color: #952791 !important; font-weight: 800 !important; letter-spacing: -0.02em; }
     .stButton>button {
-        background: linear-gradient(90deg, #FF4B4B 0%, #FF1F1F 100%);
+        background: linear-gradient(90deg, #37D087 0%, #39D7FE 100%);
         color: white; border: none; padding: 0.75rem 1.5rem;
         font-weight: 700; border-radius: 8px; transition: all 0.3s ease;
         text-transform: uppercase; letter-spacing: 0.05em; width: 100%;
@@ -31,7 +34,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- SISTEMA DE AUTENTICAÇÃO ---
-CHAVE_MESTRA = "aa"
+CHAVE_MESTRA = "a"
 
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
