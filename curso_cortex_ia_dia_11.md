@@ -2,7 +2,7 @@
 
 ## DIA 11: O Sequestro da Amígdala: Dominando o seu Cérebro Primitivo
 
-Você passou os últimos dias aprendendo a manipular o ambiente externo. Mas de que adianta saber ler o mundo se você não consegue ler a si mesmo? Se você explode de raiva em uma negociação, se você trava de medo diante de um desafio ou se você se deixa abalar por uma crítica, todo o seu conhecimento de persuasão e linguagem corporal vai para o lixo. O mestre da **Cortex IA** é, acima de tudo, o mestre das próprias emoções.
+Você passou os últimos dias aprendendo a manipular o ambiente externo. Mas de que adianta saber ler o mundo se você não consegue ler a si mesmo? Se você explode de raiva em uma negociação, se você trava de medo diante de um desafio ou se você se deixa abalar por uma crítica, todo o seu conhecimento de persuasão e linguagem corporal vai para o lixo. O mestre da **Inteligência Cortex** é, acima de tudo, o mestre das próprias emoções.
 
 Hoje, você vai dedicar aproximadamente **12 minutos** de leitura bruta para entender a biologia das suas emoções. Vamos usar o trabalho revolucionário de **Daniel Goleman** em **"Inteligência Emocional"**. Se você acha que ser "emocional" é uma fraqueza, você está certo. Mas ser "inteligente emocionalmente" é a maior força que um ser humano pode ter.
 
@@ -33,7 +33,7 @@ A amígdala é uma pequena estrutura no cérebro límbico responsável pelas rea
 
 ### 3. Como Retomar o Controle: A Técnica da Pausa Cognitiva
 
-O mestre da **Cortex IA** não tenta "não sentir" emoções. Isso é impossível. Ele aprende a **criar um espaço** entre o estímulo e a resposta.
+O mestre da **Inteligência Cortex** não tenta "não sentir" emoções. Isso é impossível. Ele aprende a **criar um espaço** entre o estímulo e a resposta.
 
 1.  **Nomeie a Emoção:** No momento em que você sentir o sangue subir, diga mentalmente: "Eu estou sentindo raiva agora". Estudos mostram que o ato de nomear uma emoção ativa o Córtex Pré-Frontal e diminui a atividade da amígdala. Você tira o poder da emoção ao observá-la.
 2.  **A Regra dos 6 Segundos:** Os produtos químicos liberados pela amígdala durante um sequestro duram cerca de 6 segundos no organismo. Se você conseguir não reagir por 6 segundos (respirando fundo ou contando), a razão volta ao comando.
@@ -56,7 +56,7 @@ Imagine a sua mente como um **Cavaleiro (Razão)** montado em um **Elefante (Emo
 
 ### 5. Tabela de Domínio Diário: O Checklist Emocional
 
-| Situação | Reação da Amígdala | Resposta Cortex IA |
+| Situação | Reação da Amígdala | Resposta Inteligência Cortex |
 | :--- | :--- | :--- |
 | **Crítica injusta** | Raiva / Defesa imediata. | Nomear a emoção + Pausa de 6 segundos. |
 | **Erro grave** | Medo / Paralisia. | Reenquadramento: "O que posso aprender?". |
