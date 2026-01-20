@@ -1,8 +1,8 @@
 # O INTENSIVÃO FINAL - SEDUÇÃO ESTRATÉGICA E CARISMA MAGNÉTICO
 
-Você achou que o curso tinha acabado? Achou que já sabia o suficiente? Se você parasse no Dia 20, você seria um líder eficiente, um vendedor técnico e uma pessoa equilibrada. Mas você ainda não seria **irresistível**. O mundo não é movido apenas pela lógica ou pela liderança formal; o mundo é movido pelo **Desejo**. E o desejo é o território da **Sedução**.
+Você achou que o curso tinha acabado? Achou que já sabia o suficiente? Se você parasse no Dia 21, você seria um líder eficiente, um vendedor técnico e uma pessoa equilibrada. Mas você ainda não seria **irresistível**. O mundo não é movido apenas pela lógica ou pela liderança formal; o mundo é movido pelo **Desejo**. E o desejo é o território da **Sedução**.
 
-Hoje, você não vai ler por 15 minutos. Hoje, você vai dedicar **1 hora** de imersão total. Este é o "intensivão" da **Cortex IA**. Vamos fundir a estratégia implacável de **Robert Greene** em *"A Arte da Sedução"* com a ciência prática de **Olivia Fox Cabane** em *"O Mito do Carisma"*. 
+Hoje, você não vai ler por 15 minutos. Hoje, você vai dedicar **1 hora** de imersão total. Este é o "intensivão" da **Inteligência Cortex**. Vamos fundir a estratégia implacável de **Robert Greene** em *"A Arte da Sedução"* com a ciência prática de **Olivia Fox Cabane** em *"O Mito do Carisma"*. 
 
 Prepare o café, desligue o celular e entre em **Flow** (Dia 15). O que você vai aprender aqui é o que separa os que pedem atenção dos que a comandam naturalmente.
 
@@ -39,7 +39,7 @@ Sedução não é sobre sexo; é sobre **Psicologia**. É sobre levar alguém a 
 > "O sedutor não força ninguém; ele atrai. Ele cria um vácuo que a outra pessoa sente o desejo de preencher. A sedução é o jogo de manipular as fraquezas e os desejos do outro para que ele se sinta compelido a te seguir" [1].
 
 ### 1. O Perfil do Sedutor: Escolha a sua Máscara
-Greene identifica vários tipos de sedutores. Para a **Cortex IA**, focaremos nos 3 mais poderosos para o ambiente social e de negócios:
+Greene identifica vários tipos de sedutores. Para a **Inteligência Cortex**, focaremos nos 3 mais poderosos para o ambiente social e de negócios:
 
 *   **O Carismático:** Projeta uma confiança inabalável e uma visão que parece vir de outro mundo (Dia 18). Ele é o farol na tempestade.
 *   **O Encantador:** Foca 100% no outro. Ele é o mestre da escuta e do elogio específico. Ele faz o alvo se sentir a pessoa mais inteligente da sala.
@@ -95,9 +95,9 @@ Como aplicar isso sem parecer um "Don Juan" de escritório? A sedução nos neg�
 
 ---
 
-## PARTE 6: A ÉTICA DO SEDUTOR CORTEX IA
+## PARTE 6: A ÉTICA DO SEDUTOR Inteligência Cortex
 
-Com grandes poderes vêm grandes responsabilidades. A sedução e o carisma podem ser usados para o mal. Você pode enganar pessoas, destruir reputações e manipular sentimentos. Mas o mestre da **Cortex IA** busca a longevidade.
+Com grandes poderes vêm grandes responsabilidades. A sedução e o carisma podem ser usados para o mal. Você pode enganar pessoas, destruir reputações e manipular sentimentos. Mas o mestre da **Inteligência Cortex** busca a longevidade.
 
 *   **Sedução vs. Manipulação:** A sedução é um jogo onde ambos ganham (prazer, visão, crescimento). A manipulação é um jogo onde apenas um ganha às custas do outro.
 *   **A Lei da Reversibilidade:** Nunca use uma técnica que você não gostaria que fosse usada contra você. Mantenha sua **Integridade** (Dia 20) como o seu norte magnético.
@@ -125,7 +125,7 @@ Sente-se em silêncio. Foque apenas na sua respiração. Toda vez que um pensame
 
 ---
 
-## CONCLUSÃO FINAL DO CURSO CORTEX IA
+## CONCLUSÃO FINAL DO CURSO Inteligência Cortex
 
 Você agora possui o mapa completo da alma humana. Você sabe como o cérebro decide, como o corpo fala, como as emoções sequestram a razão e como o carisma encanta. 
 
@@ -133,7 +133,7 @@ Você agora possui o mapa completo da alma humana. Você sabe como o cérebro de
 
 Não seja um colecionador de PDFs. Seja um mestre da realidade. O mundo é um palco, e você acaba de receber o roteiro principal. Atue com maestria, lidere com integridade e seduza com propósito.
 
-A Cortex IA agora vive dentro de você. Vá lá e faça história.
+A Inteligência Cortex agora vive dentro de você. Vá lá e faça história.
 
 ---
 **Referências do Intensivão**
