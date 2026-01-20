@@ -47,7 +47,7 @@ Se você quer saber a verdade, pare de olhar para os olhos e olhe para os **pés
 
 ### 4. O Jogo do Espelhamento (Rapport Físico)
 
-O mestre da **Cortex IA** usa o corpo para criar conexão instantânea através do **Espelhamento**. Isso consiste em copiar sutilmente a postura, os gestos e o ritmo respiratório do outro.
+O mestre da **Inteligência Cortex** usa o corpo para criar conexão instantânea através do **Espelhamento**. Isso consiste em copiar sutilmente a postura, os gestos e o ritmo respiratório do outro.
 
 *   **Por que funciona?** O cérebro humano ama o que é familiar. Se eu me movo como você, eu sou "como você". Isso ativa os neurônios-espelho e cria um estado de **Rapport** profundo.
 *   **O Erro do Amador:** Imitar como um macaco. O espelhamento deve ser sutil e ter um atraso de 10 a 20 segundos. Se ele cruza as pernas, você cruza as suas alguns segundos depois.
@@ -63,13 +63,13 @@ Explique a metáfora da Águia, Leão e Boi para alguém. Como o "Leão" (peito)
 *   **Exercício:** Vá a um local público (shopping, café) e observe um casal conversando. Não ouça o que eles dizem. Tente identificar quem está liderando a conversa apenas pela direção dos pés e pela inclinação do tronco. Isso treina o seu **Modo Difuso** para ler padrões sociais complexos.
 
 #### C. Metáfora Visual (Brain-link)
-Imagine o corpo humano como um **Livro Aberto**, mas escrito em uma língua que só os iniciados conhecem. A cabeça é o título, o peito é o conteúdo e os pés são a conclusão.
+Imagine o corpo humano como um **Livro Aberto**, mas escrito em uma língua que só os que estudaram conhecem. A cabeça é o título, o peito é o conteúdo e os pés são a conclusão.
 
 ---
 
 ### 6. Tabela de Domínio Diário: O Checklist do Corpo
 
-| Sinal | Significado Provável | Ação Cortex IA |
+| Sinal | Significado Provável | Ação Inteligência Cortex |
 | :--- | :--- | :--- |
 | **Mãos no bolso** | Escondendo algo ou insegurança. | Use a **Reciprocidade** para abrir a pessoa. |
 | **Pés para a porta** | Desejo de sair. | Encerre a conversa ou mude o assunto drasticamente. |
@@ -77,7 +77,7 @@ Imagine o corpo humano como um **Livro Aberto**, mas escrito em uma língua que 
 | **Inclinar a cabeça** | Interesse e escuta ativa. | Continue falando, você está no caminho certo. |
 
 ### Resumo Sincero do Dia 07
-O corpo não mente porque ele não tem tempo para pensar. Ele apenas reage. Se você aprender a ler os sinais físicos, você terá um superpoder. Você saberá quando parar de falar, quando avançar e quando alguém está tentando te enganar. O mestre da **Cortex IA** vê o corpo como uma extensão da mente, e ele lê cada movimento como uma palavra em uma frase.
+O corpo não mente porque ele não tem tempo para pensar. Ele apenas reage. Se você aprender a ler os sinais físicos, você terá um superpoder. Você saberá quando parar de falar, quando avançar e quando alguém está tentando te enganar. O mestre da **Inteligência Cortex** vê o corpo como uma extensão da mente, e ele lê cada movimento como uma palavra em uma frase.
 
 Na próxima vamos falar sobre o mestre da estratégia: **Robert Greene**. Vamos aprender como usar a linguagem corporal para projetar **Poder e Mistério**.
 
