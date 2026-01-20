@@ -4,7 +4,7 @@ import time
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
 st.set_page_config(
-    page_title="Cortex IA - Elite Portal",
+    page_title="Inteligência Cortex",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -43,8 +43,8 @@ def login_screen():
     st.markdown("<br><br>", unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.markdown("<h1 style='text-align: center;'>🧠 CORTEX IA</h1>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align: center; color: #888;'>Portal de Elite - Acesso Rápido</p>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center;'>🧠 Inteligência Cortex</h1>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: center; color: #888;'>Portal de aprendizado</p>", unsafe_allow_html=True)
         chave = st.text_input("Chave de Acesso", type="password", placeholder="Digite sua chave")
         if st.button("LIBERAR ACESSO"):
             if chave == CHAVE_MESTRA:
@@ -62,7 +62,7 @@ else:
 
     # Sidebar
     with st.sidebar:
-        st.markdown("### 🧠 Cortex IA")
+        st.markdown("### 🧠 Inteligência Cortex")
         st.markdown("---")
         dias = [f"Dia {i:02d}" for i in range(1, 23)]
         escolha_dia = st.selectbox("Módulo Atual", dias, index=st.session_state.dia_atual - 1)
