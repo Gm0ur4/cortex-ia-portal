@@ -32,7 +32,7 @@ O princípio do contraste afeta a maneira como percebemos a diferença entre dua
 **Exemplo Prático:**
 
 *   Um vendedor de imóveis te mostra duas casas caindo aos pedaços e superfaturadas. Depois, ele te mostra a casa que ele realmente quer vender. De repente, essa terceira casa, que é apenas razoável, parece uma mansão com preço de banana.
-*   Você quer pedir um aumento de R$ 5.000. Peça R$ 10.000 primeiro. Quando você "ceder" para R$ 5.000, o seu chefe vai sentir que está fazendo um ótimo negócio.
+*   Você quer pedir um aumento de R$ 5.000. Peça R$ 10.000 primeiro. Quando você "ceder" para R$ 5.000, o seu chefe vai sentir que está fazendo um negócio melhor.
 
 O Contraste não é mágica, é física da percepção. **Sacou a jogada?** Você manipula o ponto de referência.
 
@@ -41,8 +41,8 @@ O Contraste não é mágica, é física da percepção. **Sacou a jogada?** Voc�
 **Atenção, aqui não tem moleza:** Para fixar esses conceitos, você precisa sair do **Modo Focado** (que você usou para ler este texto) e ir para o **Modo Difuso**.
 
 1.  **Modo Focado (Leitura):** Você acabou de absorver as regras.
-2.  **Modo Difuso (Reflexão - 5 minutos):** Feche este arquivo. Pegue um papel e caneta. Pense em três situações da sua última semana onde você poderia ter usado a **Reciprocidade** ou o **Contraste** para conseguir o que queria. Não tente escrever o texto perfeito, apenas deixe as ideias fluírem.
-3.  **Brain-link:** Crie uma metáfora visual para a Reciprocidade. Pense em um **bumerangue**. Você joga, e ele volta com mais força. Isso é o seu Brain-link para o conceito.
+2.  **Modo Difuso (Reflexão - 5 minutos):** Anote no bloco de notas aqui da página: Pense em três situações da sua última semana onde você poderia ter usado a **Reciprocidade** ou o **Contraste** para conseguir o que queria. Não tente escrever o texto perfeito, apenas deixe as ideias fluírem.
+3.  **Brain-link:** Crie uma metáfora visual para a Reciprocidade. Pense em um **bumerangue**. Você joga, e ele volta com mais força. Isso é o seu link cerebral para o conceito.
 
 **Na próxima voltamos para falar sobre a arte de fazer as perguntas certas. Não adianta ter a arma se você não sabe atirar.**
 
