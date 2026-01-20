@@ -1,142 +1,100 @@
 import streamlit as st
 import os
+import time
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
-st.set_page_config(
-    page_title="Cortex IA - Elite Portal",
-    page_icon="🧠",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+st.set_page_config(page_title="Cortex IA", page_icon="🧠", layout="wide")
 
-# --- ESTILO PREMIUM (CSS) COM BARRA DE PROGRESSO ---
-st.markdown("""
+# --- ESTILO PREMIUM (FOCO EM LEITURA) ---
+st.markdown(\"\"\"
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
-    html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
-    html, body, .stApp {
-        background-color: #F0FFFE !important;
+    .main { background-color: #050505; }
+    .stMarkdown { 
+        color: #E0E0E0; 
+        line-height: 1.8; 
+        font-size: 1.1rem;
+        max-width: 900px;
+        margin: 0 auto;
     }
-    
-    /* Customização da Sidebar */
-    [data-testid="stSidebar"] {
-        background-color: #E0F7FF !important;
-    }
-    [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] {
-        color: #952791 !important;
-    }
-    
-    /* Barra de progresso de rolagem */
-    .progress-bar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        height: 4px;
-        background: linear-gradient(90deg, #37D087 0%, #39D7FE 100%);
-        width: 0%;
-        z-index: 9999;
-        transition: width 0.1s ease;
-    }
-    
-    #Cor da fonte menor
-    .stMarkdown { color: #952791; line-height: 1.8; }
-    h1, h2, h3 { color: #952791 !important; font-weight: 800 !important; letter-spacing: -0.02em; }
+    h1, h2, h3 { color: #FFFFFF !important; font-weight: 800 !important; }
     .stButton>button {
-        background: linear-gradient(90deg, #37D087 0%, #39D7FE 100%);
-        color: white; border: none; padding: 0.75rem 1.5rem;
-        font-weight: 700; border-radius: 8px; transition: all 0.3s ease;
-        text-transform: uppercase; letter-spacing: 0.05em; width: 100%;
+        background: linear-gradient(90deg, #FF4B4B 0%, #FF1F1F 100%);
+        color: white; border-radius: 8px; width: 100%;
     }
-    .stButton>button:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(255, 75, 75, 0.4); }
+    /* Garante que o container de texto não tenha limite de altura */
+    .element-container { overflow: visible !important; }
     </style>
-    
-    <!-- Barra de progresso HTML -->
-    <div class="progress-bar" id="progressBar"></div>
-    
-    <script>
-    // Script para atualizar a barra de progresso conforme o usuário rola
-    window.addEventListener('scroll', function() {
-        const scrollTop = window.scrollY;
-        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-        const scrolled = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-        document.getElementById('progressBar').style.width = scrolled + '%';
-    });
-    </script>
-    """, unsafe_allow_html=True)
+    \"\"\", unsafe_allow_html=True)
 
-# --- SISTEMA DE AUTENTICAÇÃO ---
-CHAVE_MESTRA = "a"
-
-if "authenticated" not in st.session_state:
-    st.session_state.authenticated = False
-
-def login_screen():
-    st.markdown("<br><br>", unsafe_allow_html=True)
-    col1, col2, col3 = st.columns([1, 2, 1])
-    with col2:
-        st.markdown("<h1 style='text-align: center;'>🧠 CORTEX IA</h1>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align: center; color: #888;'>Portal de Elite - Acesso Rápido</p>", unsafe_allow_html=True)
-        chave = st.text_input("Chave de Acesso", type="password", placeholder="Digite sua chave")
-        if st.button("LIBERAR ACESSO"):
-            if chave == CHAVE_MESTRA:
-                st.session_state.authenticated = True
-                st.rerun()
-            else:
-                st.error("Chave incorreta.")
-
-# --- APP PRINCIPAL ---
-if not st.session_state.authenticated:
-    login_screen()
-else:
-    if 'dia_atual' not in st.session_state: st.session_state.dia_atual = 1
-    if 'notas' not in st.session_state: st.session_state.notas = {}
-
-    # Sidebar
-    with st.sidebar:
-        st.markdown("### 🧠 Cortex IA")
-        st.markdown("---")
-        dias = [f"Dia {i:02d}" for i in range(1, 22)]
-        escolha_dia = st.selectbox("Módulo Atual", dias, index=st.session_state.dia_atual - 1)
-        dia_num = int(escolha_dia.split()[1])
-        if st.button("SAIR"):
-            st.session_state.authenticated = False
+# --- LOGIN ---
+if \"auth\" not in st.session_state: st.session_state.auth = False
+if not st.session_state.auth:
+    st.title(\"🧠 CORTEX IA\")
+    chave = st.text_input(\"Chave de Acesso\", type=\"password\")
+    if st.button(\"ENTRAR\"):
+        if chave == \"CORTEX-2026\":
+            st.session_state.auth = True
             st.rerun()
+        else: st.error(\"Chave incorreta.\")
+    st.stop()
 
-    # Conteúdo
-    st.title(f"🚀 {escolha_dia}")
+# --- NAVEGAÇÃO ---
+dias = [f\"Dia {i:02d}\" for i in range(1, 22)]
+escolha = st.sidebar.selectbox(\"Módulo Atual\", dias)
+dia_num = int(escolha.split()[1])
+
+# --- CARREGAMENTO DE CONTEÚDO ---
+def load_content(day):
+    base_path = os.path.dirname(__file__)
     
-    def load_content(day):
-        # Tenta encontrar o arquivo na raiz do repositório
-        filename = f"curso_cortex_ia_dia_{day:02d}.md"
-        
-        # No Streamlit Cloud, os arquivos ficam na raiz do diretório de execução
-        if os.path.exists(filename):
-            with open(filename, "r", encoding="utf-8") as f:
-                return f.read()
-        
-        # Fallback: tenta caminhos alternativos que o Streamlit pode usar
-        alt_path = os.path.join(os.getcwd(), filename)
-        if os.path.exists(alt_path):
-            with open(alt_path, "r", encoding="utf-8") as f:
+    # Tenta os dois padrões de nome (com e sem o zero à esquerda)
+    filenames = [
+        f\"curso_cortex_ia_dia_{day:02d}.md\",
+        f\"curso_cortex_ia_dia_{day}.md\"
+    ]
+    
+    # Caso especial para o Dia 21 (Intensivão)
+    if day == 21:
+        parts = [\"curso_cortex_ia_dia_21_intensivao_parte_1.md\", 
+                 \"curso_cortex_ia_dia_21_intensivao_parte_2.md\", 
+                 \"curso_cortex_ia_dia_21_intensivao_parte_3.md\"]
+        full = \"\"
+        for p in parts:
+            p_path = os.path.join(base_path, p)
+            if os.path.exists(p_path):
+                with open(p_path, \"r\", encoding=\"utf-8\") as f: full += f.read() + \"\\n\\n---\\n\\n\"
+        if full: return full
+
+    for fname in filenames:
+        path = os.path.join(base_path, fname)
+        if os.path.exists(path):
+            with open(path, \"r\", encoding=\"utf-8\") as f:
                 return f.read()
                 
-        return f"Erro: O arquivo '{filename}' não foi encontrado na raiz do seu GitHub. Verifique se o nome está exatamente assim."
+    return f\"Erro: Arquivo não encontrado na raiz do GitHub. Verifique se o nome é {filenames[0]}\"
 
-    content = load_content(dia_num)
-    c_main, c_tools = st.columns([3, 1])
+# --- EXIBIÇÃO ---
+st.title(f\"🚀 {escolha}\")
+
+# Layout em duas colunas apenas para ferramentas, texto ocupa o centro
+col_txt, col_side = st.columns([3, 1])
+
+with col_txt:
+    conteudo_completo = load_content(dia_num)
+    st.markdown(conteudo_completo, unsafe_allow_html=True)
+    st.markdown(\"---")
+    if st.button(\"CONCLUIR DIA\"): st.balloons()
+
+with col_side:
+    st.subheader(\"⏱️ Cronômetro\")
+    if st.button(\"INICIAR 15 MIN\"):
+        t = st.empty()
+        for i in range(943, 0, -1):
+            m, s = divmod(i, 60)
+            t.metric(\"Restante\", f\"{m:02d}:{s:02d}\")
+            time.sleep(1)
     
-    with c_main:
-        st.markdown(content)
-        st.markdown("---")
-        if st.button("CONCLUIR DIA"):
-            st.session_state.dia_atual = dia_num + 1 if dia_num < 21 else 21
-            st.balloons()
-            st.success("Progresso marcado!")
-
-    with c_tools:
-        st.markdown("---")
-        st.subheader("📝 Notas")
-        notas_input = st.text_area("Exercícios do dia:", value=st.session_state.notas.get(dia_num, ""), height=300)
-        if st.button("SALVAR NOTAS"):
-            st.session_state.notas[dia_num] = notas_input
-            st.success("Notas salvas!")
+    st.markdown(\"---")
+    st.subheader(\"📝 Notas\")
+    st.text_area(\"Anote seus Brain-links:\", height=300)
+    st.button(\"SALVAR NOTAS\")
