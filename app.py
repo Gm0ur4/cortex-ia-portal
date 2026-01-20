@@ -28,8 +28,6 @@ st.markdown("""
         text-transform: uppercase; letter-spacing: 0.05em; width: 100%;
     }
     .stButton>button:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(255, 75, 75, 0.4); }
-    .timer-card { background: #111111; border: 1px solid #222222; padding: 20px; border-radius: 12px; text-align: center; margin-bottom: 20px; }
-    .timer-value { font-size: 2rem; font-weight: 800; color: #FF4B4B; }
     </style>
     """, unsafe_allow_html=True)
 
@@ -103,14 +101,6 @@ else:
             st.success("Progresso marcado!")
 
     with c_tools:
-        st.markdown(f'<div class="timer-card"><p style="color:#888">FOCO</p><div class="timer-value">{"60:00" if dia_num==21 else "15:43"}</div></div>', unsafe_allow_html=True)
-        if st.button("START TIMER"):
-            p = st.empty()
-            s = 3600 if dia_num==21 else 943
-            while s > 0:
-                m, sec = divmod(s, 60)
-                p.markdown(f'<div class="timer-card"><p style="color:#888">RESTANTE</p><div class="timer-value">{m:02d}:{sec:02d}</div></div>', unsafe_allow_html=True)
-                time.sleep(1); s -= 1
         
         st.markdown("---")
         st.subheader("📝 Notas")
