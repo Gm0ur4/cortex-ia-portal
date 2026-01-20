@@ -4,7 +4,7 @@
 
 Você saiu do Módulo 1 sabendo como influenciar o mundo. Agora, você vai aprender a **ler** o mundo. A maioria das pessoas mente. Elas mentem para serem educadas, mentem para evitar conflitos e mentem para conseguir o que querem. Mas o corpo, e principalmente o rosto, tem um "vazamento" constante de verdade. Se você não sabe ler esse vazamento, você está jogando poker com as cartas viradas para você, enquanto o seu adversário vê as suas.
 
-Hoje, você vai dedicar exatamente **15 minutos** de leitura bruta para dominar a ciência das **Microexpressões**. Vamos beber direto da fonte de **Paul Ekman**, o homem que provou que as emoções são universais e que a face é o mapa mais honesto da alma humana. Se você acha que "intuição" é suficiente para ler pessoas, você é um amador. O mestre da **Cortex IA** usa dados faciais.
+Hoje, você vai dedicar exatamente **15 minutos** de leitura bruta para dominar a ciência das **Microexpressões**. Vamos beber direto da fonte de **Paul Ekman**, o homem que provou que as emoções são universais e que a face é o mapa mais honesto da alma humana. Se você acha que "intuição" é suficiente para ler pessoas, você é um amador. O mestre da **Inteligência Cortex** usa dados faciais.
 
 ---
 
@@ -83,7 +83,7 @@ Imagine o rosto humano como uma **Tela de Cinema** onde o projetor (o subconscie
 | **Desprezo** | Canto da boca | Se for unilateral, sua autoridade está em risco. |
 
 ### Resumo Sincero do Dia 06
-Se você quer o poder, você precisa parar de ouvir o que as pessoas dizem e começar a ver o que elas sentem. As palavras são baratas; os músculos faciais são caros e honestos. O mestre da **Cortex IA** é um caçador de microexpressões. Ele sabe que a verdade dura menos de um segundo, e ele está pronto para capturá-la.
+Se você quer o poder, você precisa parar de ouvir o que as pessoas dizem e começar a ver o que elas sentem. As palavras são baratas; os músculos faciais são caros e honestos. O mestre da **Inteligência Cortex** é um caçador de microexpressões. Ele sabe que a verdade dura menos de um segundo, e ele está pronto para capturá-la.
 
 Na próxima vamos para o corpo. Vamos aprender com **Pierre Weil** como o triângulo do corpo (Cabeça, Tronco e Membros) revela as intenções mais profundas de qualquer pessoa.
 
