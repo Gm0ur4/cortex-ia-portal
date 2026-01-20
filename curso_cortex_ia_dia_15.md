@@ -4,7 +4,7 @@
 
 Você chegou ao final do Módulo 3. Você aprendeu a dominar sua amígdala, a calar sua mente, a entender seus vieses e a prosperar no caos. Agora, a gente vai falar sobre o ápice do controle emocional: o estado de **Flow** (Fluxo). É aquele momento em que você está tão imerso no que está fazendo que o tempo parece parar, o seu ego desaparece e a sua performance atinge níveis sobre-humanos. Se você quer paz e alívio, o Flow é o seu destino final.
 
-Hoje, você vai dedicar aproximadamente **12** de leitura bruta para aprender a entrar nesse estado sob demanda. Vamos usar as descobertas de **Mihaly Csikszentmihalyi** e conectar com tudo o que vimos até aqui. Se você quer ser um mestre da **Cortex IA**, você precisa saber como ligar o seu "modo turbo" sem se queimar.
+Hoje, você vai dedicar aproximadamente **12** de leitura bruta para aprender a entrar nesse estado sob demanda. Vamos usar as descobertas de **Mihaly Csikszentmihalyi** e conectar com tudo o que vimos até aqui. Se você quer ser um mestre da **Inteligência Cortex**, você precisa saber como ligar o seu "modo turbo" sem se queimar.
 
 ---
 
@@ -58,7 +58,7 @@ Imagine o Flow como um **Rio de Correnteza Forte**. Se você rema contra a corre
 | **Flow** | Equilíbrio Desafio/Habilidade. | Performance máxima e satisfação. |
 
 ### Resumo Sincero do Módulo 3
-Você agora é o mestre da sua própria mente. Você tem as ferramentas para não ser mais uma vítima das suas emoções ou do caos do mundo. A paz que você desejava não é a ausência de problemas, mas a presença de controle sobre como você reage a eles. O mestre da **Cortex IA** é inabalável porque ele sabe que o seu poder vem de dentro.
+Você agora é o mestre da sua própria mente. Você tem as ferramentas para não ser mais uma vítima das suas emoções ou do caos do mundo. A paz que você desejava não é a ausência de problemas, mas a presença de controle sobre como você reage a eles. O mestre da **Inteligência Cortex** é inabalável porque ele sabe que o seu poder vem de dentro.
 
 Na próxima a gente começa o último módulo: **Liderança e Influência Social**. Agora que você domina a si mesmo e sabe ler os outros, é hora de aprender a guiar as massas e construir o seu império.
 
