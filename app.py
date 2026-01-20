@@ -97,8 +97,8 @@ else:
     with c_main:
         st.markdown(content)
         st.markdown("---")
-if st.button("CONCLUIR DIA"):
-    st.session_state.dia_atual = dia_num + 1 if dia_num < 22 else 22
+        if st.button("CONCLUIR DIA"):
+            st.session_state.dia_atual = dia_num + 1 if dia_num < 22 else 22
             st.balloons()
             st.success("Progresso marcado!")
 
