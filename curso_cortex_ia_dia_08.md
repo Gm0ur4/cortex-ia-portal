@@ -2,7 +2,7 @@
 
 ## DIA 08: A Postura do Poder: Lições de Robert Greene
 
-Você já sabe ler o rosto e o corpo. Agora, você vai aprender a **projetar**. A linguagem corporal não serve apenas para detectar mentiras; ela serve para criar a sua própria realidade de poder. No mundo real, a percepção é a realidade. Se você parece poderoso, você é poderoso. Se você parece fraco, você será devorado. O mestre da **Cortex IA** não espera que o poder lhe seja dado; ele o projeta através de cada poro do seu corpo.
+Você já sabe ler o rosto e o corpo. Agora, você vai aprender a **projetar**. A linguagem corporal não serve apenas para detectar mentiras; ela serve para criar a sua própria realidade de poder. No mundo real, a percepção é a realidade. Se você parece poderoso, você é poderoso. Se você parece fraco, você será devorado. O mestre da **Inteligência Cortex** não espera que o poder lhe seja dado; ele o projeta através de cada poro do seu corpo.
 
 Hoje, você vai dedicar aproximadamente **15 minutos** de leitura bruta para dominar a estética do poder. Vamos usar as leis implacáveis de **Robert Greene** em **"As 48 Leis do Poder"**. Se você acha que o poder é "feio" ou "antiético", você já perdeu o jogo. O poder é amoral; ele é uma ferramenta. E hoje, você vai aprender a empunhá-la.
 
@@ -31,7 +31,7 @@ Sua linguagem corporal constrói sua reputação antes mesmo de você falar. Se 
 
 ### 3. A Lei 6: Chame atenção a qualquer preço
 
-No mundo da **Cortex IA**, ser invisível é o maior pecado. Você deve usar sua presença física para se destacar da massa medíocre.
+No mundo da **Inteligência Cortex**, ser invisível é o maior pecado. Você deve usar sua presença física para se destacar da massa medíocre.
 
 *   **O Contraste Visual (Dia 01):** Se todos estão relaxados, esteja impecável. Se todos estão tensos, seja a figura de calma absoluta. O contraste atrai o olhar e estabelece sua **Autoridade** (Dia 04).
 *   **O Mistério (Lei 3):** Nunca revele todas as suas intenções através do corpo. Mantenha uma "face de poker". Deixe as pessoas tentarem adivinhar o que você está pensando. O mistério cria fascínio e medo, as duas bases do poder.
