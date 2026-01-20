@@ -32,7 +32,7 @@ O "Ego" é a imagem que a sua mente criou de você mesmo. Ele se alimenta de con
 
 Tolle ensina que o sofrimento é causado pela resistência ao que **é**. Se algo ruim acontece e você fica dizendo "isso não deveria estar acontecendo", você está criando um sofrimento secundário.
 
-*   **A Estratégia Cortex IA:** Aceite o momento presente como se você o tivesse escolhido. Se o seu projeto deu errado, aceite o fato. "O projeto deu errado. Este é o Agora". A partir da aceitação, você tem clareza para agir. A resistência drena a energia que você deveria usar para resolver o problema.
+*   **A Estratégia Inteligência Cortex:** Aceite o momento presente como se você o tivesse escolhido. Se o seu projeto deu errado, aceite o fato. "O projeto deu errado. Este é o Agora". A partir da aceitação, você tem clareza para agir. A resistência drena a energia que você deveria usar para resolver o problema.
 
 ---
 
@@ -51,7 +51,7 @@ Imagine a sua mente como um **Céu Azul** e os seus pensamentos como **Nuvens**.
 
 ### 5. Tabela de Domínio Diário: O Checklist da Presença
 
-| Estado Mental | Sintoma | Ação Cortex IA |
+| Estado Mental | Sintoma | Ação Inteligência Cortex |
 | :--- | :--- | :--- |
 | **Ansiedade** | Foco no futuro ("e se..."). | Trazer a atenção para a respiração. |
 | **Culpa / Remorso** | Foco no passado ("eu deveria..."). | Aceitar que o passado não existe mais. |
@@ -59,7 +59,7 @@ Imagine a sua mente como um **Céu Azul** e os seus pensamentos como **Nuvens**.
 | **Flow** | Presença total na ação. | Manter o foco e desfrutar. |
 
 ### Resumo Sincero do Dia 12
-A paz que você busca não está em um futuro onde você terá mais dinheiro ou mais poder. Ela está disponível agora, no silêncio entre os seus pensamentos. Se você aprender a calar a mente, você terá uma vantagem competitiva absurda: você será a pessoa mais calma e focada em qualquer sala. O mestre da **Cortex IA** usa a mente como uma ferramenta afiada, mas sabe como guardá-la na bainha quando ela não é necessária.
+A paz que você busca não está em um futuro onde você terá mais dinheiro ou mais poder. Ela está disponível agora, no silêncio entre os seus pensamentos. Se você aprender a calar a mente, você terá uma vantagem competitiva absurda: você será a pessoa mais calma e focada em qualquer sala. O mestre da **Inteligência Cortex** usa a mente como uma ferramenta afiada, mas sabe como guardá-la na bainha quando ela não é necessária.
 
 Na próxima vamos falar sobre como o seu cérebro realmente decide. Vamos aprender com **Daniel Kahneman** a diferença entre o **Sistema 1** e o **Sistema 2**.
 
