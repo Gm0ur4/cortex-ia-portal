@@ -12,92 +12,106 @@ st.set_page_config(
 
 # --- ESTILO PREMIUM (CSS) ---
 st.markdown("""
-    <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
 
-    html, body, [class*="css"] {
-        font-family: 'Inter', sans-serif;
-    }
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif;
+}
 
-    /* Fundo principal */
-    html, body, .stApp {
-        background-color: #F0FFFE !important;
-    }
+/* Fundo principal */
+html, body, .stApp {
+    background-color: #F0FFFE !important;
+}
 
-    /* Sidebar */
-    section[data-testid="stSidebar"] {
-        background-color: #E0F7FF !important;
-    }
+/* ===== SIDEBAR ===== */
+section[data-testid="stSidebar"] {
+    background-color: #E0F7FF !important;
+}
 
-    section[data-testid="stSidebar"] > div {
-        border-right: none;
-    }
+section[data-testid="stSidebar"] > div {
+    border-right: none;
+}
 
-    /* Textos da sidebar */
-    section[data-testid="stSidebar"] h1,
-    section[data-testid="stSidebar"] h2,
-    section[data-testid="stSidebar"] h3,
-    section[data-testid="stSidebar"] h4,
-    section[data-testid="stSidebar"] p,
-    section[data-testid="stSidebar"] span,
-    section[data-testid="stSidebar"] label {
-        color: #952791 !important;
-        font-weight: 600;
-    }
+/* Textos da sidebar */
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3,
+section[data-testid="stSidebar"] h4,
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] span,
+section[data-testid="stSidebar"] label {
+    color: #952791 !important;
+    font-weight: 600;
+}
 
-    /* Selectbox da sidebar */
-    section[data-testid="stSidebar"] .stSelectbox div {
-        background-color: #F0FFFE !important;
-        border-radius: 8px;
-    }
+/* ===== CORREÇÃO DO "MÓDULO ATUAL" ===== */
 
-    /* Conteúdo principal */
-    .stMarkdown {
-        color: #952791;
-        line-height: 1.8;
-    }
+/* Container externo do selectbox */
+section[data-testid="stSidebar"] .stSelectbox > div {
+    background-color: #E0F7FF !important;
+}
 
-    h1, h2, h3 {
-        color: #952791 !important;
-        font-weight: 800 !important;
-        letter-spacing: -0.02em;
-    }
+/* BaseWeb (estrutura interna do select) */
+section[data-testid="stSidebar"] div[data-baseweb="select"] > div {
+    background-color: #E0F7FF !important;
+    border-radius: 8px;
+    border: 1px solid rgba(149, 39, 145, 0.25);
+}
 
-    /* Botões */
-    .stButton > button {
-        background: linear-gradient(90deg, #37D087 0%, #39D7FE 100%);
-        color: white;
-        border: none;
-        padding: 0.75rem 1.5rem;
-        font-weight: 700;
-        border-radius: 8px;
-        transition: all 0.3s ease;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        width: 100%;
-    }
+/* Texto do select */
+section[data-testid="stSidebar"] div[data-baseweb="select"] span {
+    color: #952791 !important;
+    font-weight: 600;
+}
 
-    .stButton > button:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 4px 15px rgba(55, 208, 135, 0.4);
-    }
+/* ===== CONTEÚDO PRINCIPAL ===== */
+.stMarkdown {
+    color: #952791;
+    line-height: 1.8;
+}
 
-    /* Timer */
-    .timer-card {
-        background: #111111;
-        border: 1px solid #222222;
-        padding: 20px;
-        border-radius: 12px;
-        text-align: center;
-        margin-bottom: 20px;
-    }
+h1, h2, h3 {
+    color: #952791 !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.02em;
+}
 
-    .timer-value {
-        font-size: 2rem;
-        font-weight: 800;
-        color: #FF4B4B;
-    }
-    </style>
+/* ===== BOTÕES ===== */
+.stButton > button {
+    background: linear-gradient(90deg, #37D087 0%, #39D7FE 100%);
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    font-weight: 700;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    width: 100%;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(55, 208, 135, 0.4);
+}
+
+/* ===== TIMER (inalterado) ===== */
+.timer-card {
+    background: #111111;
+    border: 1px solid #222222;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.timer-value {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #FF4B4B;
+}
+</style>
 """, unsafe_allow_html=True)
 
 # --- SISTEMA DE AUTENTICAÇÃO ---
