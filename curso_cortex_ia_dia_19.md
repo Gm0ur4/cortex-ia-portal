@@ -2,7 +2,7 @@
 
 ## DIA 19: Mentalidade de Status: Ativos vs. Passivos
 
-Você já tem o propósito e a tribo. Agora, a gente vai falar sobre a base material do seu status e do seu respeito: a sua **Mentalidade Financeira**. A maioria das pessoas trabalha pelo dinheiro; o mestre da **Cortex IA** faz o dinheiro trabalhar para ele. Se você quer ter liberdade para liderar e influenciar, você precisa sair da "Corrida dos Ratos". O status real não vem de parecer rico, mas de ser livre.
+Você já tem o propósito e a tribo. Agora, a gente vai falar sobre a base material do seu status e do seu respeito: a sua **Mentalidade Financeira**. A maioria das pessoas trabalha pelo dinheiro; o mestre da **Inteligência Cortex** faz o dinheiro trabalhar para ele. Se você quer ter liberdade para liderar e influenciar, você precisa sair da "Corrida dos Ratos". O status real não vem de parecer rico, mas de ser livre.
 
 Hoje, você vai dedicar aproximadamente **14 minutos** de leitura bruta para entender a diferença entre quem constrói impérios e quem apenas paga contas. Vamos usar as lições de **Robert Kiyosaki** em **"Pai Rico, Pai Pobre"**. Se você acha que um carro de luxo financiado é status, você é um amador que ainda não entendeu o jogo do poder.
 
@@ -22,7 +22,7 @@ Kiyosaki simplifica a contabilidade para o mundo real:
 
 Por que as pessoas compram passivos? Por causa do **Desejo de Status/Respeito**. Elas querem mostrar para a tribo que são bem-sucedidas. O problema é que elas sacrificam a liberdade futura pela validação presente.
 
-*   **Estratégia Cortex IA:** Use o seu conhecimento de **Linguagem Corporal** (Módulo 2) e **Autoridade** (Dia 04) para projetar status sem precisar gastar fortunas em passivos. O status real vem da sua postura, do seu conhecimento e da sua rede de contatos, não da marca da sua camisa.
+*   **Estratégia Inteligência Cortex:** Use o seu conhecimento de **Linguagem Corporal** (Módulo 2) e **Autoridade** (Dia 04) para projetar status sem precisar gastar fortunas em passivos. O status real vem da sua postura, do seu conhecimento e da sua rede de contatos, não da marca da sua camisa.
 
 ---
 
@@ -49,7 +49,7 @@ Imagine o seu dinheiro como **Soldados**. Se você gasta dinheiro com passivos, 
 
 ### 5. Tabela de Domínio Diário: O Checklist da Riqueza
 
-| Item | Ativo ou Passivo? | Ação Cortex IA |
+| Item | Ativo ou Passivo? | Ação Inteligência Cortex |
 | :--- | :--- | :--- |
 | **Curso de IA** | Ativo (Gera conhecimento). | Estudar e aplicar imediatamente. |
 | **Carro Novo** | Passivo (Deprecia e gasta). | Comprar apenas quando os ativos pagarem por ele. |
@@ -57,7 +57,7 @@ Imagine o seu dinheiro como **Soldados**. Se você gasta dinheiro com passivos, 
 | **Roupas de Marca** | Passivo (Status efêmero). | Usar a **Autoridade** (Dia 04) para projetar status. |
 
 ### Resumo Sincero do Dia 19
-O respeito que você deseja não vem do que você ostenta, mas da segurança e da liberdade que você possui. Quem deve para o banco não é um líder; é um servo. O mestre da **Cortex IA** constrói uma base financeira sólida para que sua voz tenha o peso da independência. Seja o dono dos seus ativos, não o escravo dos seus passivos.
+O respeito que você deseja não vem do que você ostenta, mas da segurança e da liberdade que você possui. Quem deve para o banco não é um líder; é um servo. O mestre da **Inteligência Cortex** constrói uma base financeira sólida para que sua voz tenha o peso da independência. Seja o dono dos seus ativos, não o escravo dos seus passivos.
 
 Na próxima vamos falar sobre a síntese da liderança. Vamos aprender a manter a **Integridade** e a visão no longo prazo.
 
