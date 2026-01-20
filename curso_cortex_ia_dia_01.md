@@ -2,7 +2,7 @@
 
 ## DIA 01: A Engenharia da Dívida e o Jogo do Contraste Perceptivo
 
-Você entrou aqui porque quer o domínio. Quer ganhar mais, quer ser respeitado e quer que o mundo se curve às suas ideias. Mas vamos ser sinceros: a maioria das pessoas é patética tentando convencer os outros. Elas imploram, elas insistem, elas tentam "vender" o tempo todo. Isso é coisa de quem não tem controle. A persuasão de verdade, a persuasão da **Cortex IA**, é invisível. É uma engenharia social que prepara o terreno antes mesmo de você abrir a boca. Se você acha que persuadir é ter "lábia", você já começou perdendo. Persuasão é ciência, é neurobiologia aplicada.
+Você entrou aqui porque quer o domínio. Quer ganhar mais, quer ser respeitado e quer que o mundo se curve às suas ideias. Mas vamos ser sinceros: a maioria das pessoas é patética tentando convencer os outros. Elas imploram, elas insistem, elas tentam "vender" o tempo todo. Isso é coisa de quem não tem controle. A persuasão de verdade, a persuasão da **Inteligência Cortex**, é invisível. É uma engenharia social que prepara o terreno antes mesmo de você abrir a boca. Se você acha que persuadir é ter "lábia", você já começou perdendo. Persuasão é ciência, é neurobiologia aplicada.
 
 Hoje, você vai dedicar aproximadamente **15 minutos** de leitura bruta para entender as duas leis fundamentais que regem as trocas humanas: a **Reciprocidade** e o **Contraste**. Se você acha que já sabe o que é isso, você é o primeiro que vai cair na armadilha. Foca aqui, porque o que eu vou te ensinar é como usar essas leis como armas de precisão, não como curiosidades de livro de aeroporto.
 
@@ -30,7 +30,7 @@ Quando você recebe um presente ou um favor inesperado, seu cérebro libera **oc
 
 ### 2. A Técnica da Concessão Recíproca: O "Pé na Porta" ao Contrário
 
-Aqui é onde o jogo da Cortex IA fica sério. Existe uma variação da reciprocidade chamada **Rejeição-seguida-de-recuo**. 
+Aqui é onde o jogo da Inteligência Cortex fica sério. Existe uma variação da reciprocidade chamada **Rejeição-seguida-de-recuo**. 
 
 **A lógica é a seguinte:** Se você quer que alguém aceite um pedido B (o seu objetivo real), você faz um pedido A (muito maior, quase absurdo, mas ainda dentro da realidade) primeiro. Quando a pessoa diz "não" ao pedido A, você "recua" para o pedido B. A pessoa percebe o seu recuo como uma **concessão voluntária**. Pela lei da reciprocidade, ela se sente obrigada a fazer uma concessão também. E qual é a concessão dela? Dizer "sim" ao seu segundo pedido, mesmo que ela não o fizesse em condições normais.
 
@@ -39,9 +39,9 @@ Cialdini testou isso pedindo a estudantes universitários que acompanhassem um g
 
 #### Script Real: Negociação de Prazos ou Orçamentos
 Imagine que você precisa de 10 dias para entregar um projeto, mas sabe que o seu cliente é exigente.
-*   **Mestre Cortex IA:** "Para entregar esse nível de excelência que sua empresa exige, com todos os testes de estresse e refinamento de IA, o cronograma ideal é de 25 dias úteis."
+*   **Mestre Inteligência Cortex:** "Para entregar esse nível de excelência que sua empresa exige, com todos os testes de estresse e refinamento de IA, o cronograma ideal é de 25 dias úteis."
 *   **Cliente:** "Impossível, preciso disso para ontem!"
-*   **Mestre Cortex IA:** "Entendo a urgência do seu lançamento. Se eu mobilizar minha equipe de elite e focarmos exclusivamente nisso, sacrificando outros projetos, consigo reduzir para 12 dias. É o limite absoluto da segurança técnica."
+*   **Mestre Inteligência Cortex:** "Entendo a urgência do seu lançamento. Se eu mobilizar minha equipe de elite e focarmos exclusivamente nisso, sacrificando outros projetos, consigo reduzir para 12 dias. É o limite absoluto da segurança técnica."
 *   **Cliente:** "Fechado!"
 **Sacou?** Você conseguiu os 10-12 dias que precisava, e o cliente saiu da mesa sentindo que ganhou uma batalha épica de negociação. Ele está feliz porque você "cedeu", e você está feliz porque o seu plano funcionou perfeitamente.
 
@@ -62,7 +62,7 @@ Vendedores de alto nível são treinados para vender o item mais caro primeiro. 
 
 ### 4. A Psicologia do "Não" e a Persistência Estratégica
 
-Muitos desistem no primeiro "não". O mestre da Cortex IA sabe que o "não" é apenas o começo da dança da reciprocidade. **Dale Carnegie**, em **"Como Fazer Amigos e Influenciar Pessoas"**, ensina que você deve evitar o confronto direto. Se você recebe um "não", você não discute; você concorda e recua estrategicamente [4].
+Muitos desistem no primeiro "não". O mestre da Inteligência Cortex sabe que o "não" é apenas o começo da dança da reciprocidade. **Dale Carnegie**, em **"Como Fazer Amigos e Influenciar Pessoas"**, ensina que você deve evitar o confronto direto. Se você recebe um "não", você não discute; você concorda e recua estrategicamente [4].
 
 #### A Lei do Poder aplicada à Persuasão
 **Robert Greene**, na **Lei 3 (Oculte suas Intenções)**, sugere que você nunca deve deixar claro o seu objetivo final [5]. Ao usar a técnica da Rejeição-seguida-de-recuo, você está ocultando que o seu objetivo real era o segundo pedido. O seu alvo acha que está no controle, mas ele está apenas reagindo às alavancas que você instalou.
@@ -121,7 +121,7 @@ Você acabou de queimar muita energia no **Modo Focado**. O seu cérebro está "
 | **Defesa** | Consciência Crítica | Ativar o Sistema 2 (Lógica). | Evitar manipulação externa. |
 
 ### Resumo Sincero do Dia 01
-Persuasão não é sobre ser "legal". É sobre entender as engrenagens da mente humana e saber qual alavanca puxar. Se você der primeiro, você manda no jogo. Se você souber recuar, você ganha a guerra. Use isso com integridade, porque o mercado sente cheiro de mau-caratismo de longe, e a **Cortex IA** preza pela longevidade do seu poder.
+Persuasão não é sobre ser "legal". É sobre entender as engrenagens da mente humana e saber qual alavanca puxar. Se você der primeiro, você manda no jogo. Se você souber recuar, você ganha a guerra. Use isso com integridade, porque o mercado sente cheiro de mau-caratismo de longe, e a **Inteligência Cortex** preza pela longevidade do seu poder.
 
 Na próxima o nível sobe. Vamos mergulhar no **Método SPIN** de Neil Rackham. Você vai aprender a fazer perguntas que sangram o problema do cliente até que ele implore pela sua solução. 
 
