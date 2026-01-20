@@ -2,7 +2,7 @@
 
 ## DIA 14: Tornando-se Antifrágil: Prosperando no Caos
 
-Você já sabe como seu cérebro decide e como controlar suas emoções. Mas a vida não é um laboratório controlado. A vida é caos, incerteza e eventos inesperados (os Cisnes Negros). A maioria das pessoas busca a "resiliência" – a capacidade de resistir ao choque e voltar ao estado original. Isso é pouco. O mestre da **Cortex IA** busca a **Antifragilidade**. Ele não quer apenas resistir ao caos; ele quer **melhorar** com ele.
+Você já sabe como seu cérebro decide e como controlar suas emoções. Mas a vida não é um laboratório controlado. A vida é caos, incerteza e eventos inesperados (os Cisnes Negros). A maioria das pessoas busca a "resiliência" – a capacidade de resistir ao choque e voltar ao estado original. Isso é pouco. O mestre da **Inteligência Cortex** busca a **Antifragilidade**. Ele não quer apenas resistir ao caos; ele quer **melhorar** com ele.
 
 Hoje, você vai dedicar aproximadamente **11 minutos** de leitura bruta para mudar sua relação com o estresse e a incerteza. Vamos usar o conceito revolucionário de **Nassim Taleb** em **"Antifrágil"**. Se você quer paz, você precisa aprender a amar o fogo, não a fugir dele.
 
@@ -25,7 +25,7 @@ Taleb explica que existem três categorias de coisas no mundo:
 Para o antifrágil, o estresse não é um inimigo; é uma informação. O seu corpo é antifrágil: se você levanta pesos (estresse), seus músculos crescem. Se você se expõe a pequenas doses de bactérias, seu sistema imunológico se fortalece.
 
 *   **A Falácia da Estabilidade:** Tentar eliminar todo o estresse e incerteza da vida te torna frágil. É como viver em uma bolha esterilizada; no momento em que você sair, qualquer gripe te mata.
-*   **Estratégia Cortex IA:** Busque o "Estresse Agudo" e evite o "Estresse Crônico". O estresse agudo (um desafio difícil, um treino intenso) te fortalece. O estresse crônico (preocupação constante, falta de sono) te destrói.
+*   **Estratégia Inteligência Cortex:** Busque o "Estresse Agudo" e evite o "Estresse Crônico". O estresse agudo (um desafio difícil, um treino intenso) te fortalece. O estresse crônico (preocupação constante, falta de sono) te destrói.
 
 ---
 
@@ -60,7 +60,7 @@ Imagine-se como uma **Fogueira**. O vento apaga uma vela (frágil), mas o vento 
 | **Incerteza** | Ansiedade e paralisia. | Curiosidade e experimentação. |
 
 ### Resumo Sincero do Dia 14
-A vida vai te bater. Isso é um fato. A questão é: você vai quebrar como um cristal ou vai crescer como um músculo? O mestre da **Cortex IA** não busca uma vida sem problemas; ele busca ser a pessoa que os problemas não conseguem derrubar. A antifragilidade é a forma suprema de controle emocional, porque ela transforma o medo em combustível.
+A vida vai te bater. Isso é um fato. A questão é: você vai quebrar como um cristal ou vai crescer como um músculo? O mestre da **Inteligência Cortex** não busca uma vida sem problemas; ele busca ser a pessoa que os problemas não conseguem derrubar. A antifragilidade é a forma suprema de controle emocional, porque ela transforma o medo em combustível.
 
 Na próxima a gente fecha o Módulo 3 com a **Consolidação da Paz**. Vamos aprender a atingir o estado de **Flow** e manter a resiliência no longo prazo.
 
