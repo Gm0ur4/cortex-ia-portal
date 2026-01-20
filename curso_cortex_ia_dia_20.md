@@ -2,7 +2,7 @@
 
 ## DIA 20: Integridade e Visão: O Legado do Líder
 
-Você está a um passo do final. Você já tem todas as ferramentas táticas, emocionais e financeiras. Mas agora vem a pergunta mais importante: **Para que serve tudo isso?** Se você usar o seu poder apenas para benefício próprio, você será um tirano efêmero. Se você usar para construir algo maior que você, você deixará um legado. O mestre da **Cortex IA** sabe que a **Integridade** é o que sustenta o poder no longo prazo. Sem ela, a sua tribo vai te abandonar no primeiro sinal de crise.
+Você está a um passo do final. Você já tem todas as ferramentas táticas, emocionais e financeiras. Mas agora vem a pergunta mais importante: **Para que serve tudo isso?** Se você usar o seu poder apenas para benefício próprio, você será um tirano efêmero. Se você usar para construir algo maior que você, você deixará um legado. O mestre da **Inteligência Cortex** sabe que a **Integridade** é o que sustenta o poder no longo prazo. Sem ela, a sua tribo vai te abandonar no primeiro sinal de crise.
 
 Hoje, você vai dedicar aproximadamente **11 minutos** de leitura bruta para entender a alma da liderança. Vamos consolidar tudo o que vimos e focar na construção de uma reputação inabalável. Se você quer respeito real, você precisa ser a pessoa que faz o que é certo, mesmo quando ninguém está olhando.
 
@@ -10,7 +10,7 @@ Hoje, você vai dedicar aproximadamente **11 minutos** de leitura bruta para ent
 
 ### 1. A Integridade como Vantagem Competitiva
 
-Muitos acham que para vencer é preciso "jogar sujo". O mestre da **Cortex IA** sabe que a honestidade e a integridade são, na verdade, ferramentas de eficiência. Quando você é íntegro, você não gasta energia escondendo mentiras ou protegendo sua retaguarda.
+Muitos acham que para vencer é preciso "jogar sujo". O mestre da **Inteligência Cortex** sabe que a honestidade e a integridade são, na verdade, ferramentas de eficiência. Quando você é íntegro, você não gasta energia escondendo mentiras ou protegendo sua retaguarda.
 
 *   **Confiança Radical:** A confiança é o lubrificante da sociedade. Se as pessoas confiam em você, as negociações são mais rápidas, as equipes são mais produtivas e o seu status é inquestionável.
 *   **A Lei da Coerência (Dia 05):** A integridade é a coerência entre o que você pensa, o que você diz e o que você faz. Essa harmonia interna gera uma força de presença que as pessoas sentem e respeitam.
@@ -51,7 +51,7 @@ Imagine a sua Liderança como um **Farol**. A luz é a sua Visão, e a torre de 
 
 ### 5. Tabela de Domínio Diário: O Checklist do Legado
 
-| Valor | Ação Cortex IA | O que evitar |
+| Valor | Ação Inteligência Cortex | O que evitar |
 | :--- | :--- | :--- |
 | **Integridade** | Cumprir promessas e ser honesto. | Atalhos éticos e mentiras "brancas". |
 | **Visão** | Focar no objetivo de longo prazo. | Distrações com ganhos imediatos e pequenos. |
@@ -61,7 +61,7 @@ Imagine a sua Liderança como um **Farol**. A luz é a sua Visão, e a torre de 
 ### Resumo Sincero do Dia 20
 O status que vale a pena ter é aquele que você não precisa exigir; as pessoas o dão voluntariamente porque respeitam quem você é. A liderança é o teste final do seu caráter. Você agora tem as armas; certifique-se de usá-las para construir um mundo melhor, começando pelo seu próprio império.
 
-Na próxima vamos fazer a **Consolidação Final** de todo o curso e traçar o seu plano de ação para os próximos 21 dias de prática real.
+Na próxima vamos estar próximo da **Consolidação Final** de todo o curso e traçar o seu plano de ação para os próximos 21 dias de prática real.
 
 **Até a próxima. O seu legado começa hoje.**
 
