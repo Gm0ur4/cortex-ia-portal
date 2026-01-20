@@ -2,7 +2,7 @@
 
 ## DIA 18: O Círculo Dourado: Comece pelo Porquê
 
-Você já sabe liderar grupos. Mas o que mantém um grupo unido no longo prazo? O que faz as pessoas continuarem te seguindo mesmo quando as coisas ficam difíceis? É o **Propósito**. A maioria das pessoas e empresas sabe **o que** faz. Algumas sabem **como** fazem. Mas pouquíssimas sabem **por que** fazem o que fazem. O mestre da **Cortex IA** não vende produtos ou serviços; ele vende um "Porquê".
+Você já sabe liderar grupos. Mas o que mantém um grupo unido no longo prazo? O que faz as pessoas continuarem te seguindo mesmo quando as coisas ficam difíceis? É o **Propósito**. A maioria das pessoas e empresas sabe **o que** faz. Algumas sabem **como** fazem. Mas pouquíssimas sabem **por que** fazem o que fazem. O mestre da **Inteligência Cortex** não vende produtos ou serviços; ele vende um "Porquê".
 
 Hoje, você vai dedicar aproximadamente **12 minutos** de leitura bruta para entender a biologia da inspiração. Vamos usar o conceito do **Círculo Dourado** de **Simon Sinek**. Se você quer respeito e status duradouro, você precisa parar de falar sobre o que você faz e começar a falar sobre o que você acredita.
 
@@ -41,7 +41,7 @@ O Círculo Dourado não é apenas uma técnica de marketing; ele espelha a anato
 ### 4. Laboratório de Aprendizado: Método "Learning How to Learn"
 
 #### A. Técnica de Feynman (Recall Ativo)
-Explique por que a Apple consegue vender computadores, celulares e relógios, enquanto a Dell (que só vende computadores) teria dificuldade em vender um relógio. (Dica: a Apple vende um "Porquê" de desafiar o status quo; a Dell vende um "O Quê" de computadores baratos).
+Explique por que a Apple consegue vender computadores, celulares e relógios, enquanto a Dell (que só vende computadores) teria dificuldade em vender um relógio. (Dica: a Apple vende um "Porquê"; a Dell vende um "O Quê" de computadores baratos).
 
 #### B. Modo Focado vs. Modo Difuso
 *   **Exercício:** Escreva o seu "Porquê" em uma única frase. "Eu acredito que...". Se você precisar de mais de uma frase, você ainda está no "Como" ou no "O Quê". Deixe essa frase na sua mente enquanto faz outras coisas. O seu **Modo Difuso** vai te ajudar a refiná-la.
@@ -60,7 +60,7 @@ Imagine o seu Porquê como a **Raiz de uma Árvore**. O Como são os galhos e o 
 | **O QUÊ** | "O que eu entrego no final?" | Neocórtex (Lógica). |
 
 ### Resumo Sincero do Dia 18
-Status e respeito não vêm do que você possui, mas do que você representa. Se você quer ser um líder de verdade, você precisa dar às pessoas algo em que acreditar. O mestre da **Cortex IA** é um farol de propósito em um mundo de transações vazias. Comece pelo porquê, e o resto virá por consequência.
+Status e respeito não vêm do que você possui, mas do que você representa. Se você quer ser um líder de verdade, você precisa dar às pessoas algo em que acreditar. O mestre da **Inteligência Cortex** é um farol de propósito em um mundo de transações vazias. Comece pelo porquê, e o resto virá por consequência.
 
 Na próxima vamos falar sobre a mentalidade de riqueza e status. Vamos aprender com **Robert Kiyosaki** a diferença entre ativos e passivos.
 
