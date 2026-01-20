@@ -26,7 +26,7 @@ st.markdown("""
 
     /* Sidebar */
     section[data-testid="stSidebar"] {
-        background-color: #39D7FE !important;
+        background-color: #AEDDFF !important;
     }
 
     section[data-testid="stSidebar"] > div {
