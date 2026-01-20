@@ -4,7 +4,7 @@
 
 Ontem você aprendeu a ler o rosto, o "painel de controle" das emoções. Hoje, a gente vai descer para o resto da máquina. O rosto pode ser treinado para mentir (embora as microexpressões vazem), mas o corpo é muito mais difícil de controlar. Enquanto você está focado em manter uma expressão neutra, seus pés estão apontando para a porta e suas mãos estão protegendo seus órgãos vitais. O corpo não tem filtro.
 
-Hoje, você vai dedicar aproximadamente **13 minutos** de leitura bruta para dominar a gramática do corpo. Vamos usar o clássico **"O Corpo Fala"** de **Pierre Weil e Roland Tompakow**. Se você acha que cruzar os braços é só "conforto", você é um amador que está ignorando os sinais de guerra ou paz que o seu interlocutor está enviando.
+Hoje, você vai dedicar aproximadamente **12 minutos** de leitura bruta para dominar a gramática do corpo. Vamos usar o clássico **"O Corpo Fala"** de **Pierre Weil e Roland Tompakow**. Se você acha que cruzar os braços é só "conforto", você é um amador que está ignorando os sinais de guerra ou paz que o seu interlocutor está enviando.
 
 ---
 
