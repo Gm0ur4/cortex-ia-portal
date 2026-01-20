@@ -54,9 +54,9 @@ O cérebro humano é uma máquina de comparação, não de medição absoluta. E
 No mundo das vendas, do status e da influência, o Contraste é a sua ferramenta para manipular o ponto de referência do seu alvo.
 
 #### O Exemplo das Lojas de Roupas de Luxo
-Vendedores de alto nível são treinados para vender o item mais caro primeiro. Se um homem entra para comprar um terno e uma gravata, o vendedor mostra primeiro o terno de R$ 5.000. Depois que o cliente concorda com esse valor, gastar R$ 400 em uma gravata parece insignificante. É "apenas mais um pouquinho". Se o vendedor mostrasse a gravata primeiro, o cliente acharia R$ 400 um absurdo por um pedaço de seda. 
+Vendedores de alto nível são treinados para vender o item mais caro primeiro. Se um homem entra para comprar um terno e uma gravata, o vendedor mostra primeiro o terno de R$5.000. Depois que o cliente concorda com esse valor, gastar R$400 em uma gravata parece insignificante. É "apenas mais um pouquinho". Se o vendedor mostrasse a gravata primeiro, o cliente acharia R$ 400 um absurdo por um pedaço de seda. 
 
-**Neil Rackham**, em **"Spin Selling"**, reforça que o contraste deve ser usado para aumentar a percepção da "dor" do problema antes de apresentar o preço da solução [2]. Se o problema custa R$ 1 milhão para a empresa, uma solução de R$ 100 mil é barata. Se você não estabelece o contraste do prejuízo, os R$ 100 mil parecem um gasto desnecessário.
+**Neil Rackham**, em **"Spin Selling"**, reforça que o contraste deve ser usado para aumentar a percepção da "dor" do problema antes de apresentar o preço da solução [2]. Se o problema custa R$1 milhão para a empresa, uma solução de R$100 mil é barata. Se você não estabelece o contraste do prejuízo, os R$100 mil parecem um gasto desnecessário.
 
 ---
 
@@ -79,7 +79,7 @@ Vamos analisar como um consultor de elite usa todos esses princípios em uma ún
 1.  **A Chegada (Reciprocidade):** O consultor chega e entrega um relatório impresso, encadernado, com uma análise profunda do mercado do cliente que ele fez "por conta própria" no fim de semana. Ele diz: "Vi isso e achei que seria vital para sua decisão de hoje". (Dívida instalada).
 2.  **A Proposta (Contraste):** Ele apresenta primeiro o projeto completo de reestruturação, que custa R$ 500.000 e leva 12 meses. Ele detalha os riscos de não fazer nada (SPIN - Dia 02).
 3.  **O Recuo (Concessão):** O cliente diz que o orçamento está apertado. O consultor recua: "Entendo. Podemos começar com a Fase 1 de diagnóstico e implementação rápida. Custa R$ 80.000 e resolve os 20% dos problemas que causam 80% do prejuízo".
-4.  **O Fechamento (Contraste + Reciprocidade):** Em comparação aos R$ 500.000, os R$ 80.000 parecem uma pechincha. O cliente aceita, sentindo que o consultor foi "parceiro" ao reduzir o escopo.
+4.  **O Fechamento (Contraste + Reciprocidade):** Em comparação aos R$500.000, os R$80.000 parecem uma pechincha. O cliente aceita, sentindo que o consultor foi "parceiro" ao reduzir o escopo.
 
 ---
 
