@@ -2,7 +2,7 @@
 
 ## DIA 16: Liderança Ressonante: O Poder da Empatia
 
-Você chegou ao módulo final. Você já sabe persuadir, ler pessoas e controlar a si mesmo. Agora, a gente vai falar sobre como usar tudo isso para guiar os outros. Liderança não é sobre ter um cargo de "chefe" ou mandar nas pessoas. Liderança é sobre **influência**. É sobre criar um campo de energia que faz as pessoas quererem te seguir, não porque elas têm medo, mas porque elas acreditam na sua visão. O mestre da **Cortex IA** não impõe o seu poder; ele o irradia.
+Você chegou ao módulo final. Você já sabe persuadir, ler pessoas e controlar a si mesmo. Agora, a gente vai falar sobre como usar tudo isso para guiar os outros. Liderança não é sobre ter um cargo de "chefe" ou mandar nas pessoas. Liderança é sobre **influência**. É sobre criar um campo de energia que faz as pessoas quererem te seguir, não porque elas têm medo, mas porque elas acreditam na sua visão. O mestre da **Inteligência Cortex** não impõe o seu poder; ele o irradia.
 
 Hoje, você vai dedicar aproximadamente **11 minutos** de leitura bruta para entender a diferença entre um chefe e um líder. Vamos usar o trabalho de **Daniel Goleman** sobre **"Liderança Ressonante"**. Se você acha que liderar é ser o "alfa" que grita mais alto, você é um amador que vai ser traído na primeira oportunidade.
 
@@ -18,7 +18,7 @@ Goleman afirma que a principal tarefa do líder é emocional. O líder define o 
 
 ### 2. Os 6 Estilos de Liderança de Goleman
 
-Um mestre da **Cortex IA** não tem apenas um estilo; ele tem uma caixa de ferramentas e escolhe o estilo certo para cada situação.
+Um mestre da **Inteligência Cortex** não tem apenas um estilo; ele tem uma caixa de ferramentas e escolhe o estilo certo para cada situação.
 
 1.  **Visionário:** "Venha comigo". Move as pessoas em direção a sonhos compartilhados. (O mais eficaz).
 2.  **Conselheiro:** "Tente isso". Foca no desenvolvimento pessoal dos liderados.
@@ -50,7 +50,7 @@ Explique a diferença entre Liderança Ressonante e Dissonante. Como o estado em
 *   **Exercício:** Hoje, em uma interação com alguém, tente identificar qual dos 6 estilos de liderança seria o mais adequado para aquela pessoa naquele momento. Não tente liderar ainda; apenas observe e classifique. Isso treina o seu **Modo Focado** na análise social.
 
 #### C. Metáfora Visual (Brain-link)
-Imagine o líder como um **Diapasão**. Se você vibra na frequência da confiança e da visão, todos ao seu redor começarão a vibrar na mesma frequência. Se você vibra no medo, a música será um desastre.
+O líder é como o maestro de uma banda: o ritmo que ele puxa é o ritmo que todos tocam.
 
 ---
 
@@ -66,7 +66,7 @@ Imagine o líder como um **Diapasão**. Se você vibra na frequência da confian
 | **Coercitivo** | Em crises ou com liderados problemáticos. | Negativo. |
 
 ### Resumo Sincero do Dia 16
-Liderar é servir a uma visão e às pessoas que vão te ajudar a chegar lá. Se você lidera apenas para inflar o seu ego, você terá seguidores, mas não terá lealdade. O mestre da **Cortex IA** sabe que o seu maior ativo são as pessoas. Aprenda a sintonizar com elas, e elas moverão montanhas por você.
+Liderar é servir a uma visão e às pessoas que vão te ajudar a chegar lá. Se você lidera apenas para inflar o seu ego, você terá seguidores, mas não terá lealdade. O mestre da **Inteligência Cortex** sabe que o seu maior ativo são as pessoas. Aprenda a sintonizar com elas, e elas moverão montanhas por você.
 
 Na próxima vamos falar sobre como liderar movimentos. Vamos aprender com **Seth Godin** o conceito de **Tribos**.
 
