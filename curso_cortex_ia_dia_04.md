@@ -20,7 +20,7 @@ Desde que nascemos, somos condicionados a respeitar a Autoridade. Pais, professo
 Cialdini cita o famoso experimento de Stanley Milgram, onde pessoas comuns aplicavam choques elétricos (falsos, mas elas não sabiam) em outras pessoas apenas porque um homem de jaleco branco (a autoridade) dizia: "O experimento exige que você continue". As pessoas choravam, tremiam, mas continuavam apertando o botão. Por quê? Porque a autoridade do jaleco era maior que a consciência moral delas.
 
 #### Como você vai construir Autoridade (Sem precisar de um jaleco):
-1.  **Títulos e Credenciais:** Não tenha vergonha de citar sua formação, seus resultados ou os livros que você domina. Se você é o mestre da **Cortex IA**, deixe isso claro.
+1.  **Títulos e Credenciais:** Não tenha vergonha de citar sua formação, seus resultados ou os livros que você domina. Se você é o mestre da **Inteligência Cortex**, deixe isso claro.
 2.  **Roupas e Símbolos:** A aparência é a primeira camada da autoridade. Um bom relógio, um terno bem cortado ou até mesmo um escritório organizado transmitem poder antes de você abrir a boca. **Robert Greene**, na **Lei 34 (Seja aristocrático à sua própria maneira)**, diz que a forma como você se porta determina como será tratado [2].
 3.  **Conhecimento Especializado:** Use o **SPIN** (Dia 02). A maneira como você faz perguntas profundas demonstra que você entende o problema melhor que o próprio cliente. Isso cria autoridade instantânea.
 
@@ -64,7 +64,7 @@ Você acabou de absorver conceitos de poder e urgência.
 *   **Exercício:** Pense em um produto que você comprou por impulso recentemente. Identifique: Havia um gatilho de Escassez? O vendedor parecia uma Autoridade? Ao analisar suas próprias fraquezas, você fortalece seu **Sistema 2** e cria **Brain-links** práticos.
 
 #### C. Metáfora Visual (Brain-link)
-Imagine a Autoridade como um **Cetro Real** e a Escassez como uma **Ampulheta**. O cetro te dá o direito de comandar, e a ampulheta força o outro a agir antes que a areia acabe.
+Autoridade é um farol alto na estrada: todo mundo percebe. Escassez é a última saída da rodovia: se passar, perdeu.
 
 ---
 
