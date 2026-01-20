@@ -4,7 +4,7 @@
 
 Ontem você aprendeu a liderar indivíduos e equipes. Hoje, a gente vai expandir o seu horizonte. Vamos falar sobre como liderar **Tribos**. Uma tribo é um grupo de pessoas conectadas umas às outras, conectadas a um líder e conectadas a uma ideia. O mundo está cheio de tribos esperando por um líder. Se você não liderar a sua, alguém o fará. O mestre da **Cortex IA** não busca apenas "clientes" ou "funcionários"; ele busca seguidores que compartilham da sua heresia.
 
-Hoje, você vai dedicar aproximadamente **15 minutos** de leitura bruta para entender a nova dinâmica do poder social. Vamos usar o trabalho de **Seth Godin** em **"Tribos"**. Se você acha que liderar é sobre ter autoridade formal, você está preso no século XX. No século XXI, a liderança é uma escolha, não um cargo.
+Hoje, você vai dedicar aproximadamente **13 minutos** de leitura bruta para entender a nova dinâmica do poder social. Vamos usar o trabalho de **Seth Godin** em **"Tribos"**. Se você acha que liderar é sobre ter autoridade formal, você está preso no século XX. No século XXI, a liderança é uma escolha, não um cargo.
 
 ---
 
