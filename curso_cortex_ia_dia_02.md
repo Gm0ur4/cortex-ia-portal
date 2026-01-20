@@ -6,7 +6,7 @@ Persuasão é sobre dar para receber e manipular a percepção. Se você não pr
 
 A maioria dos amadores acha que vender ou convencer alguém é sobre ter uma "lábia" incrível, falar rápido e empurrar benefícios. Eles despejam características como se fossem metralhadoras, esperando que algo acerte o alvo. O resultado? O cliente se fecha, cria resistência e você perde a venda. O mestre da **Cortex IA** sabe que o poder não está na afirmação, mas na **pergunta**. Quem pergunta, controla a conversa. Quem afirma, se expõe.
 
-Hoje, você vai dedicar exatamente **15 minutos e 43 segundos** de leitura bruta para dominar o **Método SPIN**, a técnica que revolucionou as vendas complexas e que vai te dar o controle total sobre qualquer negociação, seja ela de um milhão de reais ou de um aumento de salário.
+Hoje, você vai dedicar aproximadamente **13 minutos** de leitura bruta para dominar o **Método SPIN**, a técnica que revolucionou as vendas complexas e que vai te dar o controle total sobre qualquer negociação, seja ela de um milhão de reais ou de um aumento de salário.
 
 ---
 
