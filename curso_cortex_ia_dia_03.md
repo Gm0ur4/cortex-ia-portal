@@ -14,7 +14,7 @@ Em **"Como Fazer Amigos e Influenciar Pessoas"**, Carnegie afirma que o desejo m
 
 > "A única maneira de conseguir que alguém faça algo é fazendo com que essa pessoa queira fazê-lo. E a maneira mais rápida de fazer alguém querer algo é alimentando o seu senso de importância" [1].
 
-Se você entra em uma conversa focado em mostrar como **você** é inteligente, como **seu** produto é bom ou como **sua** empresa é grande, você está competindo com o senso de importância do outro. Você está criando resistência. O mestre da **Cortex IA** faz o contrário: ele usa o seu **Sistema 2** (Dia 13) para suprimir o próprio ego e focar 100% no ego do outro.
+Se você entra em uma conversa focado em mostrar como **você** é inteligente, como **seu** produto é bom ou como **sua** empresa é grande, você está competindo com o senso de importância do outro. Você está criando resistência. O mestre da **Inteligência Cortex** faz o contrário: ele usa o seu **Sistema 2** (Dia 13) para suprimir o próprio ego e focar 100% no ego do outro.
 
 ---
 
@@ -57,7 +57,7 @@ Cuidado para não confundir conexão com "puxação de saco". As pessoas têm de
 *   **Adulação:** É dizer algo falso para conseguir o que quer. É egoísta e transparente.
 *   **Elogio Sincero:** É encontrar um ponto de excelência real na outra pessoa e reconhecê-lo. 
 
-O mestre da **Cortex IA** é um observador de elite. Ele encontra o detalhe que ninguém notou e elogia aquilo. "Ricardo, notei como você organizou o fluxo de dados dessa planilha; a lógica de cores que você usou facilitou muito a minha leitura. Parabéns pela atenção aos detalhes". Isso é ouro puro.
+O mestre da **Inteligência Cortex** é um observador de elite. Ele encontra o detalhe que ninguém notou e elogia aquilo. "Ricardo, notei como você organizou o fluxo de dados dessa planilha; a lógica de cores que você usou facilitou muito a minha leitura. Parabéns pela atenção aos detalhes". Isso é ouro puro.
 
 ---
 
