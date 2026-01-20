@@ -64,7 +64,7 @@ else:
     with st.sidebar:
         st.markdown("### 🧠 Cortex IA")
         st.markdown("---")
-        dias = [f"Dia {i:02d}" for i in range(1, 22)]
+        dias = [f"Dia {i:02d}" for i in range(1, 23)]
         escolha_dia = st.selectbox("Módulo Atual", dias, index=st.session_state.dia_atual - 1)
         dia_num = int(escolha_dia.split()[1])
         if st.button("SAIR"):
@@ -97,8 +97,8 @@ else:
     with c_main:
         st.markdown(content)
         st.markdown("---")
-        if st.button("CONCLUIR DIA"):
-            st.session_state.dia_atual = dia_num + 1 if dia_num < 21 else 21
+if st.button("CONCLUIR DIA"):
+    st.session_state.dia_atual = dia_num + 1 if dia_num < 22 else 22
             st.balloons()
             st.success("Progresso marcado!")
 
