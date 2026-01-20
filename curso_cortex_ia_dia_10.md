@@ -15,7 +15,7 @@ A mentira e a insegurança vivem no espaço entre o que é dito e o que é mostr
 *   **Exemplo:** Alguém diz "Sim, eu concordo plenamente com você", mas balança a cabeça levemente para os lados (o sinal do "Não").
 *   **Exemplo:** Alguém diz "Estou muito calmo", mas está batendo o pé freneticamente debaixo da mesa.
 
-**A Regra da Cortex IA:** Sempre acredite no corpo. As palavras passam pelo filtro do consciente (que mente); o corpo é movido pelo subconsciente (que é honesto).
+**A Regra da Inteligência Cortex:** Sempre acredite no corpo. As palavras passam pelo filtro do consciente (que mente); o corpo é movido pelo subconsciente (que é honesto).
 
 ---
 
@@ -35,7 +35,7 @@ Para ter poder e controle, você não pode ser apenas um "leitor" frio. Você pr
 
 *   **Muito Calor, Pouca Competência:** Você é visto como "bonzinho", mas irrelevante. As pessoas gostam de você, mas não te respeitam.
 *   **Muita Competência, Pouco Calor:** Você é visto como uma ameaça. As pessoas te respeitam, mas sentem inveja e podem te trair.
-*   **O Equilíbrio Cortex IA:** Use a **Conexão** (Dia 03) para mostrar calor e a **Autoridade** (Dia 04) para mostrar competência. Sua linguagem corporal deve alternar entre a abertura das palmas e a firmeza da ogiva.
+*   **O Equilíbrio Inteligência Cortex:** Use a **Conexão** (Dia 03) para mostrar calor e a **Autoridade** (Dia 04) para mostrar competência. Sua linguagem corporal deve alternar entre a abertura das palmas e a firmeza da ogiva.
 
 ---
 
