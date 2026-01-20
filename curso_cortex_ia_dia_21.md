@@ -1,10 +1,10 @@
 # MÓDULO FINAL: CONSOLIDAÇÃO E AÇÃO
 
-## DIA 21: O Nascimento do Mestre Cortex IA
+## DIA 21: O Nascimento do Mestre Inteligência Cortex
 
 Você conseguiu. Foram 21 dias de imersão profunda nos segredos da mente, do corpo e do poder. Você não é mais a mesma pessoa que começou este curso. Você agora tem um arsenal de 22 livros e a metodologia de aprendizado mais avançada do mundo gravada no seu cérebro. Mas escuta aqui, e escuta bem: **Conhecimento sem ação é apenas entretenimento intelectual.** Se você não colocar isso em prática hoje, você jogou 5 horas e meia da sua vida no lixo.
 
-Agora, você vai dedicar os seus últimos **10 minutos** de leitura bruta para traçar o seu plano de domínio. Vamos revisar os pilares e garantir que você saiba exatamente o que fazer amanhã de manhã.
+Agora, você vai dedicar os seus últimos **10 minutos** (ou não rs) de leitura bruta para traçar o seu plano de domínio. Vamos revisar os pilares e garantir que você saiba exatamente o que fazer amanhã de manhã.
 
 ---
 
@@ -31,7 +31,7 @@ O seu aprendizado entra agora no **Modo Difuso** de longo prazo. Para consolidar
 
 Barbara Oakley ensina que o cérebro é como um músculo: ele precisa de manutenção.
 *   **Repetição Espaçada:** Volte a ler estes 21 dias daqui a um mês, depois daqui a seis meses. Cada vez que você ler, o seu cérebro fará novas conexões baseadas nas suas novas experiências de vida.
-*   **Ensine para Aprender:** A melhor forma de dominar a **Cortex IA** é ensinando esses conceitos para outra pessoa. Ao explicar, você solidifica o seu próprio conhecimento.
+*   **Ensine para Aprender:** A melhor forma de dominar a **Inteligência Cortex** é ensinando esses conceitos para outra pessoa. Ao explicar, você solidifica o seu próprio conhecimento.
 
 ---
 
@@ -39,7 +39,7 @@ Barbara Oakley ensina que o cérebro é como um músculo: ele precisa de manuten
 
 Você tem as chaves do reino. O que você vai fazer com elas? Você pode continuar sendo um espectador da vida, ou pode se tornar o arquiteto da sua própria realidade. O mundo está carente de líderes íntegros, persuasivos e emocionalmente inteligentes. Seja essa pessoa.
 
-O curso termina aqui, mas a sua jornada como Mestre Cortex IA está apenas começando. Não me decepcione. Vá lá e conquiste o que é seu por direito.
+O curso não termina aqui, a sua jornada como Mestre Inteligência Cortex está apenas começando. Disponibilizamos para ti um 5º módulo bônus para estudar sobre um tema muito importante. Não me decepcione. Vá lá e conquiste o que é seu por direito. Está ao lado, classificado como dia 22.
 
 **O sucesso não é um destino; é um processo de domínio contínuo. Você está pronto.**
 
@@ -64,5 +64,5 @@ O curso termina aqui, mas a sua jornada como Mestre Cortex IA está apenas come�
 *(E os outros 6 livros técnicos e de apoio integrados ao longo do curso).*
 
 ---
-**FIM DO CURSO CORTEX IA**
+**Inteligência Cortex**
 **DOMINE A SI MESMO. DOMINE O MUNDO.**
