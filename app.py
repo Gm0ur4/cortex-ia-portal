@@ -4,7 +4,7 @@ import time
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
 st.set_page_config(
-    page_title="Cortex IA - Elite Portal",
+    page_title="Inteligência Cortex",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -15,11 +15,14 @@ st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
     html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
-    .main { background-color: #050505; }
-    .stMarkdown { color: #E0E0E0; line-height: 1.8; }
-    h1, h2, h3 { color: #FFFFFF !important; font-weight: 800 !important; letter-spacing: -0.02em; }
+    html, body, .stApp {
+    background-color: #F0FFFE !important;
+}
+#Cor da fonte menor
+    .stMarkdown { color: #952791; line-height: 1.8; }
+    h1, h2, h3 { color: #952791 !important; font-weight: 800 !important; letter-spacing: -0.02em; }
     .stButton>button {
-        background: linear-gradient(90deg, #FF4B4B 0%, #FF1F1F 100%);
+        background: linear-gradient(90deg, #37D087 0%, #39D7FE 100%);
         color: white; border: none; padding: 0.75rem 1.5rem;
         font-weight: 700; border-radius: 8px; transition: all 0.3s ease;
         text-transform: uppercase; letter-spacing: 0.05em; width: 100%;
@@ -31,7 +34,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- SISTEMA DE AUTENTICAÇÃO ---
-CHAVE_MESTRA = "CORTEX-2026"
+CHAVE_MESTRA = "a"
 
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
@@ -40,8 +43,8 @@ def login_screen():
     st.markdown("<br><br>", unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.markdown("<h1 style='text-align: center;'>🧠 CORTEX IA</h1>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align: center; color: #888;'>Portal de Elite - Acesso Rápido</p>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center;'>🧠 Inteligência Cortex</h1>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: center; color: #888;'>Portal de aprendizado</p>", unsafe_allow_html=True)
         chave = st.text_input("Chave de Acesso", type="password", placeholder="Digite sua chave")
         if st.button("LIBERAR ACESSO"):
             if chave == CHAVE_MESTRA:
@@ -59,9 +62,9 @@ else:
 
     # Sidebar
     with st.sidebar:
-        st.markdown("### 🧠 Cortex IA")
+        st.markdown("### 🧠 Inteligência Cortex")
         st.markdown("---")
-        dias = [f"Dia {i:02d}" for i in range(1, 22)]
+        dias = [f"Dia {i:02d}" for i in range(1, 23)]
         escolha_dia = st.selectbox("Módulo Atual", dias, index=st.session_state.dia_atual - 1)
         dia_num = int(escolha_dia.split()[1])
         if st.button("SAIR"):
@@ -95,7 +98,7 @@ else:
         st.markdown(content)
         st.markdown("---")
         if st.button("CONCLUIR DIA"):
-            st.session_state.dia_atual = dia_num + 1 if dia_num < 21 else 21
+            st.session_state.dia_atual = dia_num + 1 if dia_num < 22 else 22
             st.balloons()
             st.success("Progresso marcado!")
 
