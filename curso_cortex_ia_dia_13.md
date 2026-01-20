@@ -29,7 +29,7 @@ O Sistema 1 adora atalhos (heurísticas). Ele prefere uma resposta fácil e erra
 
 ---
 
-### 3. Como o Mestre Cortex IA Toma Decisões
+### 3. Como o Mestre da Inteligência Cortex Toma Decisões
 
 O controle emocional depende de saber **chamar o Sistema 2** quando a situação exige.
 
@@ -54,7 +54,7 @@ Imagine o Sistema 1 como um **Cachorro Reativo** que late para tudo o que se mov
 
 ### 5. Tabela de Domínio Diário: O Checklist da Decisão
 
-| Situação | Sistema no Comando | Ação Cortex IA |
+| Situação | Sistema no Comando | Ação Inteligência Cortex |
 | :--- | :--- | :--- |
 | **Reação a um insulto** | Sistema 1 (Raiva). | Ativar Sistema 2 (Pausa de 6 segundos). |
 | **Análise de investimento** | Sistema 1 (Ganância). | Ativar Sistema 2 (Cálculo de riscos). |
@@ -62,7 +62,7 @@ Imagine o Sistema 1 como um **Cachorro Reativo** que late para tudo o que se mov
 | **Trabalho Criativo** | Sistema 1 (Intuição). | Deixar fluir, depois revisar com o Sistema 2. |
 
 ### Resumo Sincero do Dia 13
-Você não é tão inteligente quanto pensa. Seu cérebro é uma máquina de sobrevivência, não de lógica. Se você quer ter controle emocional e paz, você precisa aprender a policiar seus próprios pensamentos. O mestre da **Cortex IA** sabe que a intuição é útil, mas a lógica é soberana. Não seja um escravo dos seus atalhos mentais.
+Você não é tão inteligente quanto pensa. Seu cérebro é uma máquina de sobrevivência, não de lógica. Se você quer ter controle emocional e paz, você precisa aprender a policiar seus próprios pensamentos. O mestre da **Inteligência Cortex** sabe que a intuição é útil, mas a lógica é soberana. Não seja um escravo dos seus atalhos mentais.
 
 Na próxima vamos falar sobre como prosperar no caos. Vamos aprender com **Nassim Taleb** o conceito de **Antifragilidade**.
 
