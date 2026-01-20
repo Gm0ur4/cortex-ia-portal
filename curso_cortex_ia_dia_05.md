@@ -63,7 +63,7 @@ Você fechou o Módulo 1.
 *   **Exercício:** Pegue um projeto real que você tem agora. Desenhe o fluxo de persuasão dele usando: 1. Reciprocidade, 2. SPIN, 3. Conexão, 4. Autoridade/Escassez e 5. Compromisso. Ao aplicar a teoria na prática, você leva o conhecimento para o **Modo Difuso** e fixa o aprendizado.
 
 #### C. Metáfora Visual (Brain-link)
-Imagine o Compromisso como um **Cadeado**. Uma vez que a pessoa diz "Sim" ou assina algo, o cadeado fecha. Para abrir, ela teria que admitir que é incoerente, o que é uma chave muito difícil de encontrar.
+Imagine o Compromisso como um **Cadeado**. Uma vez que a pessoa diz "Sim" ou assina algo, o cadeado fecha. Para abrir, ela teria que admitir que é incoerente, que é uma chave muito difícil de encontrar.
 
 ---
 
