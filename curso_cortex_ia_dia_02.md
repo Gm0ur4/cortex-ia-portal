@@ -4,7 +4,7 @@
 
 Persuasão é sobre dar para receber e manipular a percepção. Se você não praticou a reciprocidade hoje, você já está ficando para trás. Hoje, a gente vai para o próximo nível: **parar de falar e começar a perguntar**. 
 
-A maioria dos amadores acha que vender ou convencer alguém é sobre ter uma "lábia" incrível, falar rápido e empurrar benefícios. Eles despejam características como se fossem metralhadoras, esperando que algo acerte o alvo. O resultado? O cliente se fecha, cria resistência e você perde a venda. O mestre da **Cortex IA** sabe que o poder não está na afirmação, mas na **pergunta**. Quem pergunta, controla a conversa. Quem afirma, se expõe.
+A maioria dos amadores acha que vender ou convencer alguém é sobre ter uma "lábia" incrível, falar rápido e empurrar benefícios. Eles despejam características como se fossem metralhadoras, esperando que algo acerte o alvo. O resultado? O cliente se fecha, cria resistência e você perde a venda. O mestre da **Inteligência Cortex** sabe que o poder não está na afirmação, mas na **pergunta**. Quem pergunta, controla a conversa. Quem afirma, se expõe.
 
 Hoje, você vai dedicar aproximadamente **13 minutos** de leitura bruta para dominar o **Método SPIN**, a técnica que revolucionou as vendas complexas e que vai te dar o controle total sobre qualquer negociação, seja ela de um milhão de reais ou de um aumento de salário.
 
@@ -30,7 +30,7 @@ Para entender o SPIN, você precisa entender como o desejo de compra nasce no c�
 2.  **Necessidades Explícitas:** São declarações específicas de desejos ou intenções. Exemplo: "Eu preciso de um sistema que reduza o tempo de processamento em 50%".
 
 **Onde o amador erra:** Ele ouve uma necessidade implícita ("o sistema é lento") e já pula para a solução ("então você precisa da minha IA!"). Isso gera resistência.
-**Onde o mestre Cortex IA acerta:** Ele usa o SPIN para transformar a necessidade implícita em uma necessidade explícita. Ele faz o cliente sentir que o problema é tão grande que ele **precisa** da solução agora.
+**Onde o mestre Inteligência Cortex acerta:** Ele usa o SPIN para transformar a necessidade implícita em uma necessidade explícita. Ele faz o cliente sentir que o problema é tão grande que ele **precisa** da solução agora.
 
 ---
 
@@ -70,7 +70,7 @@ Ao usar as perguntas de **Implicação**, você está ativando a amígdala do cl
 
 ### 5. A Arte de Lidar com Objeções usando o SPIN
 
-A maioria dos vendedores teme as objeções. O mestre da Cortex IA as adora. Uma objeção é apenas um sinal de que você não aprofundou as **Implicações** o suficiente.
+A maioria dos vendedores teme as objeções. O mestre da Inteligência Cortex as adora. Uma objeção é apenas um sinal de que você não aprofundou as **Implicações** o suficiente.
 
 #### Objeção de Preço: "Está muito caro"
 Se o cliente diz que está caro, é porque o valor percebido da solução é menor que o custo. 
@@ -92,7 +92,7 @@ Nos anos 80, a Xerox dominava o mercado de copiadoras. Seus vendedores eram trei
 
 #### A. Intercalação (Interleaving)
 Não foque apenas no SPIN. Tente conectar o SPIN com o **Contraste** de ontem. 
-*   **Exercício:** Como você pode usar uma pergunta de Implicação para criar um contraste entre o "Cenário de Desastre" e o "Cenário de Sucesso"? Escreva um parágrafo sobre isso. A intercalação de conceitos diferentes fortalece as sinapses e evita a "ilusão de competência".
+*   **Exercício:** Como você pode usar uma pergunta de Implicação para criar um contraste entre o "Cenário de Desastre" e o "Cenário de Sucesso"? A intercalação de conceitos diferentes fortalece as sinapses e evita a "ilusão de competência".
 
 #### B. Técnica de Feynman (Recall Ativo)
 Explique o SPIN para um amigo imaginário. Se você travar na diferença entre Implicação e Necessidade de Solução, volte e leia essa parte. O ato de tentar recuperar a informação da memória é o que realmente "grava" o conhecimento no seu cérebro.
