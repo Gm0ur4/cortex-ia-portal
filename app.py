@@ -32,7 +32,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- SISTEMA DE AUTENTICAÇÃO ---
-CHAVE_MESTRA = "a"
+CHAVE_MESTRA = "n798280qx0nd"
 
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
